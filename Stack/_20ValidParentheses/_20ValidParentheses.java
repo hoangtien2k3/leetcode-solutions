@@ -26,5 +26,4 @@ public class _20ValidParentheses {
         Solution solution = new Solution();
         System.out.println(solution.isValid(s));
     }
-
 }

@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Sort/_56MergeIntervals/_56MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/_56MergeIntervals/_56MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/_20ValidParentheses/_20ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/_20ValidParentheses/_20ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/_43MultiplyStrings/_43MultiplyStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/_43MultiplyStrings/_43MultiplyStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

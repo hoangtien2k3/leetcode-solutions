@@ -77,7 +77,6 @@ class Solution {
 
         return sb.length() == 0 ? "0" : sb.toString();
     }
-
 }
 
 public class _43MultiplyStrings {
@@ -88,6 +87,5 @@ public class _43MultiplyStrings {
 
         System.out.println(solution.multiply(num1, num2));
         System.out.println(solution.mul(num1, num2));
-
     }
 }
