@@ -5,7 +5,7 @@ import java.util.*;
 class Solution {
     public boolean checkWordDirt(String s, Set<String> set, Map<String, Boolean> map) {
 
-        if (s.length() == 0) return true;
+        if (s.isEmpty()) return true;
         if (map.containsKey(s)) return map.get(s); // return boolean trong map
 
         for (int i = 0; i < s.length(); i++) {
