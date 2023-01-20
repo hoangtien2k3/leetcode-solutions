@@ -1,8 +1,5 @@
 package Array._74Searcha2DMatrix;
 
-import java.util.ArrayList;
-import java.util.List;
-
 class Solution {
     public boolean binarySearch(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return false;

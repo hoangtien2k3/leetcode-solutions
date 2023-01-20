@@ -1,17 +1,17 @@
 package Array._79WordSearch;
 
 class Solution {
-    private boolean dfs(int i, int j, int index, boolean[][] visited, char[][] board, String word){
-        if(index == word.length()){
+    private boolean dfs(int i, int j, int index, boolean[][] visited, char[][] board, String word) {
+        if (index == word.length()) {
             return true;
         }
-        if(i < 0 || j < 0 || i >= board.length || j >= board[0].length){
+        if (i < 0 || j < 0 || i >= board.length || j >= board[0].length) {
             return false;
         }
-        if(word.charAt(index) != board[i][j]){
+        if (word.charAt(index) != board[i][j]) {
             return false;
         }
-        if(visited[i][j] ){
+        if (visited[i][j]) {
             return false;
         }
         visited[i][j] = true;
@@ -22,11 +22,12 @@ class Solution {
         visited[i][j] = false;
         return res;
     }
+
     public boolean exist(char[][] board, String word) {
-        for(int i = 0; i < board.length; i++){
-            for(int j = 0; j < board[0].length; j++){
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
                 boolean[][] visited = new boolean[board.length][board[0].length];
-                if(dfs(i, j, 0, visited, board, word)){
+                if (dfs(i, j, 0, visited, board, word)) {
                     return true;
                 }
             }
@@ -40,9 +41,9 @@ public class _79WordSearch {
         Solution solution = new Solution();
 
         char[][] bourd = {
-                {'A','B','C','E'},
-                {'S','F','C','S'},
-                {'A','D','E','E'}
+                {'A', 'B', 'C', 'E'},
+                {'S', 'F', 'C', 'S'},
+                {'A', 'D', 'E', 'E'}
         };
         String word = "ABCCED";
 
