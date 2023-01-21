@@ -7,7 +7,7 @@ class Solution {
     public int firstUniqChar(String s) {
         Map<Character, Integer> myMap = new HashMap<>();
         for(int i = 0; i < s.length(); i++) {
-            if (myMap.containsKey(s.charAt(i)) == false)
+            if (!myMap.containsKey(s.charAt(i)))
                 myMap.put(s.charAt(i), 1);
             else
                 myMap.put(s.charAt(i), myMap.get(s.charAt(i)) + 1);
