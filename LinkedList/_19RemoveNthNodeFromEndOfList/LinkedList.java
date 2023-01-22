@@ -53,7 +53,6 @@ public class LinkedList {
         this.size++;
     }
 
-
     public void printList() {
         Node currentNode = this.head;
         while (currentNode != null) {

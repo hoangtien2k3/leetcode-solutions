@@ -10,7 +10,6 @@ package LinkedList._19RemoveNthNodeFromEndOfList;
  * Node(int val, Node next) { this.val = val; this.next = next; }
  * }
  */
-
 public class RemoveNthNodeFromEndofList {
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
