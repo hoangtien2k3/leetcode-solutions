@@ -28,8 +28,7 @@ public class Solution {
 
         return merged.next; // phần tủ đầu tiên
     }
-
-
+    
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists.length == 0) {
             return null;
