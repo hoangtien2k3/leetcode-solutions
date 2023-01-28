@@ -34,7 +34,6 @@ public class Solution {
 //         return head_Node;
 //     }
 
-
     // cách này thì tìm ra vị trị rồi đổi 1 lần duy nhất.
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null || head.next == null || k == 0) {
@@ -47,7 +46,7 @@ public class Solution {
             len++;
             cur = cur.next;
         }
-        cur.next = head; // có nghĩa là cur.next trỏ vào phần tử đầu(tạo thành 1 vòng kép kín)
+        cur.next = head;
 
         k = k % len;
         k = len - k;
