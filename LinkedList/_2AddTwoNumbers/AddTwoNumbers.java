@@ -1,6 +1,5 @@
 package LinkedList._2AddTwoNumbers;
 
-
 class ListNode {
     int val;
     ListNode next;
@@ -43,9 +42,6 @@ class Solution {
         }
 
         return dummy.next;
-        // return về dummy.next, tại chúng ta muốn trả về danh sách liên kết kết quả,
-        // bắt đầu từ nút thứ hai (nút đầu tiên là dummy). Vì vậy, thay vì trả về current, chúng ta trả
-        // về dummy.next, nghĩa là nút thứ hai của danh sách liên kết kết quả.
     }
 }
 
