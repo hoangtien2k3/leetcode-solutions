@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
   schedule:
-    - cron: '0 */2 * * *' # Runs on the 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 and 22nd hour.
+    - cron: '0 */1 * * *' 
 
 concurrency:
   group: ${{ github.head_ref || github.ref_name }}
@@ -36,4 +36,3 @@ jobs:
           commit_user_name: hoangtien2k3qx1
           commit_user_email: hoangtien2k3qx1@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
           commit_author: Hoàng Anh Tiến <hoangtien2k3qx1@gmail.com> # defaults to author of the commit that triggered the run
-
