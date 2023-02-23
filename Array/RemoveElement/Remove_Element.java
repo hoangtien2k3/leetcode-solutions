@@ -1,9 +1,9 @@
 
 // 27. Remove Element
 
-package Array;
+package Array.RemoveElement;
 
-class solution_Remove_Element {
+class Solution {
     public int removeElement(int[] nums, int val) {
 
         int index = 0;
@@ -20,7 +20,7 @@ class solution_Remove_Element {
 
 public class Remove_Element {
     public static void main(String[] args) {
-        solution_Remove_Element solution = new solution_Remove_Element();
+        Solution solution = new Solution();
 
         int[] nums = new int[]{0,1,2,2,3,0,4,2} ;
         int val = 2;

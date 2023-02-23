@@ -1,9 +1,9 @@
 
 // 26. Remove Duplicates from Sorted Array
 
-package Array;
+package Array.RemoveDuplicatesfromSortedArray;
 
-class Solution_Remove_Duplicates_from_Sorted_Array {
+class Solution {
     public int removeDuplicates(int[] nums) {
 
         int index = 1;
@@ -20,7 +20,7 @@ class Solution_Remove_Duplicates_from_Sorted_Array {
 
 public class Remove_Duplicates_from_Sorted_Array {
     public static void main(String[] args) {
-        Solution_Remove_Duplicates_from_Sorted_Array solution = new Solution_Remove_Duplicates_from_Sorted_Array();
+        Solution solution = new Solution();
         int[] nums = new int[] {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
         System.out.println(solution.removeDuplicates(nums));
     }

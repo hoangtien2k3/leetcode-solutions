@@ -1,9 +1,8 @@
-package Array;
+package Array.FindFirstandLastPositionofElementinSortedArray;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
-class Solution_Find_First_and_Last_Position_of_Element_in_Sorted_Array {
+class Solution {
 
     // cách 1:
 //    public int[] searchRange(int[] nums, int target) {
@@ -85,7 +84,7 @@ public class Find_First_and_Last_Position_of_Element_in_Sorted_Array {
         int[] nums = new int[]{5, 7, 7, 8, 8, 8, 10};
         int target = 8;
 
-        Solution_Find_First_and_Last_Position_of_Element_in_Sorted_Array solution = new Solution_Find_First_and_Last_Position_of_Element_in_Sorted_Array();
+        Solution solution = new Solution();
         int[] ans = solution.searchRange(nums, target);
 
         List<Integer> list = new ArrayList<>();

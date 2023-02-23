@@ -1,4 +1,4 @@
-package Array;
+package Array._4Sum;
 
 import java.util.*;
 
@@ -38,7 +38,7 @@ import java.util.*;
 //    }
 //}
 
-class Solution_fourSum {
+class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         List<List<Integer>> list = new ArrayList<>();
         Arrays.sort(nums);
@@ -77,7 +77,7 @@ class Solution_fourSum {
 
 public class fourSum {
     public static void main(String[] args) {
-        Solution_fourSum solution = new Solution_fourSum();
+        Solution solution = new Solution();
         int[] nums = new int[] {2, 2, 2, 2, 2, 10, -10, 0, 0};
         int target = 8;
         List<List<Integer>> ans = solution.fourSum(nums, target);

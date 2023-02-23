@@ -1,6 +1,6 @@
-package Array;
+package Array.MaximumSubarray;
 
-class Solution_Maximum_Subarray {
+class Solution {
     public int maxSubArray(int[] nums) {
         int max_Sum_Subarray = nums[0];
         int currSum = nums[0];
@@ -15,7 +15,7 @@ class Solution_Maximum_Subarray {
 public class Maximum_Subarray {
     public static void main(String[] args) {
         int[] nums = new int[] {-2,1,-3,4,-1,2,1,-5,4};
-        Solution_Maximum_Subarray solution = new Solution_Maximum_Subarray();
+        Solution solution = new Solution();
         System.out.println(solution.maxSubArray(nums));
     }
 }

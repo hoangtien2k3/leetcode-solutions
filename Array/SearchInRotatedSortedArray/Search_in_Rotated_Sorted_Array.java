@@ -1,6 +1,6 @@
-package Array;
+package Array.SearchInRotatedSortedArray;
 
-class Solution_Search_in_Rotated_Sorted_Array {
+class Solution {
 
     // áp dụng thuật toán tìm kiếm nhị phân với độ phức tạp của thuật toán là O(log n)
     public int search(int[] nums, int target) {
@@ -36,7 +36,7 @@ public class Search_in_Rotated_Sorted_Array {
         int[] nums = new int[]{4,5,6,7,0,1,2};
         int target = 0;
 
-        Solution_Search_in_Rotated_Sorted_Array solution = new Solution_Search_in_Rotated_Sorted_Array();
+        Solution solution = new Solution();
 
         System.out.println(solution.search(nums, target));
     }

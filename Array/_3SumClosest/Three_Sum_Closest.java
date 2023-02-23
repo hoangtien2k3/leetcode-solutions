@@ -1,8 +1,8 @@
-package Array;
+package Array._3SumClosest;
 
 import java.util.Arrays;
 
-class Solution_3Sum_Closest {
+class Solution {
     public int threeSumClosest(int[] nums, int target) {
         int result = nums[0] + nums[1] + nums[nums.length-1];
         Arrays.sort(nums);
@@ -29,7 +29,7 @@ public class Three_Sum_Closest {
     public static void main(String[] args) {
         int[] nums = new int[] {-1,2,1,-4};
         int target = 1;
-        Solution_3Sum_Closest solution = new Solution_3Sum_Closest();
+        Solution solution = new Solution();
         int ans = solution.threeSumClosest(nums, target);
         System.out.println(ans);
     }

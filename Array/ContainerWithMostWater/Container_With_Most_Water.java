@@ -1,6 +1,6 @@
-package Array;
+package Array.ContainerWithMostWater;
 
-class Solution_1 {
+class Solution {
     public int maxArea(int[] height) {
         // kỹ thuật dùng dịch 2 con trỏ.
         int a_pointer = 0;
@@ -23,7 +23,7 @@ class Solution_1 {
 public class Container_With_Most_Water {
     public static void main(String[] args) {
         int[] height = new int[] {1,8,6,2,5,4,8,3,7};
-        Solution_1 solution = new Solution_1();
+        Solution solution = new Solution();
         System.out.println(solution.maxArea(height));
     }
 }

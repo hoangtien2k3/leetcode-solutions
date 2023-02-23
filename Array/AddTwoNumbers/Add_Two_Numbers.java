@@ -1,6 +1,4 @@
-package Array;
-
-import java.util.List;
+package Array.AddTwoNumbers;
 
 class ListNode {
     int val;

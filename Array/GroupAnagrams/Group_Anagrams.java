@@ -3,12 +3,12 @@
 *
 * */
 
-package Array;
+package Array.GroupAnagrams;
 
 
 import java.util.*;
 
-class Solution_Group_Anagrams {
+class Solution {
     public List<List<String>> groupAnagrams(String[] strs){
         List<List<String>> s = new ArrayList<>();
         Map<String, List<String>> map = new HashMap<>();
@@ -34,7 +34,7 @@ class Solution_Group_Anagrams {
 public class Group_Anagrams {
     public static void main(String[] args) {
         String[] s = {"eat","tea","tan","ate","nat","bat"};
-        Solution_Group_Anagrams solution = new Solution_Group_Anagrams();
+        Solution solution = new Solution();
         System.out.println(solution.groupAnagrams(s));
 
     }

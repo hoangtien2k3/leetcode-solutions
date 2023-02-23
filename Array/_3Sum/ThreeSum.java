@@ -1,10 +1,10 @@
-package Array;
+package Array._3Sum;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-class Solution_3Sum {
+class Solution {
 
     // bài này áp dụng kỹ thuật 2 con trỏ để code rất hay và tối ưu code.( độ phức tạp sẽ được giảm xuống )
     public List<List<Integer>> threeSum(int[] nums) {
@@ -49,7 +49,7 @@ class Solution_3Sum {
 public class ThreeSum {
     public static void main(String[] args) {
         int[] nums = new int[] {-1,0,1,2,-1,-4};
-        Solution_3Sum solution = new Solution_3Sum();
+        Solution solution = new Solution();
         System.out.println(solution.threeSum(nums));
     }
 }

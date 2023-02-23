@@ -1,4 +1,4 @@
-package Array;
+package Array.MedianofTwoSortedArrays;
 
 import java.util.ArrayList;
 import java.util.Collections;
