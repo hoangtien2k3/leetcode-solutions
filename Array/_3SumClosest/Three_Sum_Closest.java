@@ -13,9 +13,12 @@ class Solution {
 
             while(left < right){
                 int curSum = nums[i] + nums[left] + nums[right];
-                if(curSum == target) return target;
-                if(curSum > target) right--;
-                if(curSum < target) left++;
+                if(curSum == target)
+                    return target;
+                if(curSum > target)
+                    right--;
+                if(curSum < target)
+                    left++;
                 if(Math.abs(curSum - target) < Math.abs(result - target))
                     result = curSum;
             }

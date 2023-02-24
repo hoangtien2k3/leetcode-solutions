@@ -14,10 +14,10 @@ class Solution {
         Map<String, List<String>> map = new HashMap<>();
 
         for(String e : strs){
-            char ch[] = e.toCharArray(); // toCharArray : dùng để chuyển chuỗi thành mảng ky tự.
+            char ch[] = e.toCharArray(); // chuyển chuỗi thành mảng ky tự.
+            Arrays.sort(ch); // mục đích chuyển về mảng ký tự để Sort.
 
-            Arrays.sort(ch); // sắp xếp mảng ký tự đó.
-            String str = new String(ch); // có thể chuyền mảng ký tự vào chuỗi.
+            String str = new String(ch); // chuyền mảng ký tự vào chuỗi.
 
             if(!map.containsKey(str)){
                 map.put(str, new ArrayList<>());

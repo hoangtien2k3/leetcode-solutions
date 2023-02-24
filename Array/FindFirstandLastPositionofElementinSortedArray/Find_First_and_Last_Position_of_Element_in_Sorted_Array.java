@@ -47,7 +47,7 @@ class Solution {
 
         while(start <= end) {
             int mid = start + ((end - start) >> 1);
-            if (nums[mid] >= target) {
+            if (nums[mid] >= target) { // tìm phần tử ở phần lớn hơn target
                 end = mid-1;
             } else {
                 start = mid+1;
@@ -66,7 +66,7 @@ class Solution {
 
         while(start <= end) {
             int mid = start + ((end - start) >> 1);
-            if (nums[mid] <= target) {
+            if (nums[mid] <= target) { // search phần tử phần nhỏ hơn tảtget
                 start = mid+1;
             } else {
                 end = mid-1;

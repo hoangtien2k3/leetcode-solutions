@@ -50,6 +50,6 @@ public class ThreeSum {
     public static void main(String[] args) {
         int[] nums = new int[] {-1,0,1,2,-1,-4};
         Solution solution = new Solution();
-        System.out.println(solution.threeSum(nums));
+        System.out.println(solution.threeSum(nums)); // trả về tổng bộ 3 số bằng 0
     }
 }
