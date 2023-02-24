@@ -15,7 +15,7 @@ class ListNode {
     }
 }
 
-class Solution_Add_Two_Numbers {
+class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode();
         ListNode current = dummy;
