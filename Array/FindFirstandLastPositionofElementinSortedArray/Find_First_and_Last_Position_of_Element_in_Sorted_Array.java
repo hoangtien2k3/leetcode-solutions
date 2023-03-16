@@ -37,7 +37,6 @@ class Solution {
         return result;
     }
 
-
     public int findStartingIndex(int[] nums, int target) {
         int index = -1;
 
@@ -51,7 +50,8 @@ class Solution {
             } else {
                 start = mid+1;
             }
-            if (nums[mid] == target) index = mid;
+            if (nums[mid] == target)
+                index = mid;
         }
 
         return index;
@@ -75,7 +75,6 @@ class Solution {
 
         return index;
     }
-
 }
 
 public class Find_First_and_Last_Position_of_Element_in_Sorted_Array {

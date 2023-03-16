@@ -22,6 +22,5 @@ public class RemoveNthNodeFromEndofList {
         int n = 2;
 
         list.printList();
-
     }
 }

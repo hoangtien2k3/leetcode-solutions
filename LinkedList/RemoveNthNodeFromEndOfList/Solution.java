@@ -16,16 +16,17 @@ public class Solution {
         dummy.next = head;
         int size = Size(head);
 
+        // created node with value 0
         Node temp = new Node(0);
         temp.next = head;
         Node p = temp;
 
+        // in length in last listNode.
         size -= n;
         for(int i = 0; i < size; i++) {
             p = p.next;
         }
         p.next = p.next.next;
-
         return temp.next;
     }
 }
