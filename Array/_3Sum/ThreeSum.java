@@ -8,10 +8,11 @@ class Solution {
 
     // bài này áp dụng kỹ thuật 2 con trỏ để code rất hay và tối ưu code.( độ phức tạp sẽ được giảm xuống )
     public List<List<Integer>> threeSum(int[] nums) {
+        // -1 , 0 , 1 , 2 , -1 , -4
         Arrays.sort(nums);
         List<List<Integer>> list = new ArrayList<List<Integer>>();
 
-        // -1 , 0 , 1 , 2 , -1 , -4
+        // -4, -1, -1, 0, 1, 2
         for(int i = 0 ; i < nums.length - 2 ; i++){
             if(i == 0 || (i > 0 && nums[i] != nums[i-1]) ){
                 // (i > 0 && nums[i] != nums[i-1] : điều kiện này để tránh trùng lặp lại bội 3 số đã xét

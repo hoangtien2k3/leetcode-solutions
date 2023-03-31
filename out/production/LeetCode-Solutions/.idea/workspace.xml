@@ -8,14 +8,7 @@
       <change afterPath="$PROJECT_DIR$/Array/_39CombinationSum/_39CombinationSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Array/CombinationSumII/CombinationSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/CombinationSumII/CombinationSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/ValidSudoku/ValidSudoku.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Array/_3Sum/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_3Sum/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3Sum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3Sum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3Sum/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3Sum/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndofList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndofList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/RemoveNthNodeFromEndOfList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/RemoveNthNodeFromEndOfList/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/Solution_Longest_Palindromic_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/Solution_Longest_Palindromic_Substring.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +67,7 @@
       <recent name="Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CombinationSumII">
+  <component name="RunManager" selected="Application.CombinationSumII (1)">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -136,7 +129,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSumII (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CombinationSumII (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.CombinationSumII.CombinationSumII" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
@@ -149,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.CombinationSumII.CombinationSumII" />
+    <configuration name="Find_First_and_Last_Position_of_Element_in_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.FindFirstandLastPositionofElementinSortedArray.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.CombinationSumII.*" />
+          <option name="PATTERN" value="Array.FindFirstandLastPositionofElementinSortedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CombinationSumII" />
         <item itemvalue="Application.CombinationSumII (1)" />
+        <item itemvalue="Application.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
+        <item itemvalue="Application.CombinationSumII (4)" />
         <item itemvalue="Application.CombinationSumII (3)" />
         <item itemvalue="Application.CombinationSumII (2)" />
-        <item itemvalue="Application.CombinationSumII (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -194,5 +187,20 @@
       <updated>1674153883243</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/CombinationSumII/CombinationSumII.java</url>
+          <line>10</line>
+          <properties class="Array.CombinationSumII.Solution" method="func">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
