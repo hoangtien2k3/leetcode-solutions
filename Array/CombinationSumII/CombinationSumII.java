@@ -6,32 +6,35 @@ import java.lang.reflect.Array;
 import java.util.*;
 
 //! Solution 1
-//class Solution {
-//    private void search(List<List<Integer>> list, List<Integer> temp, int[] nums, int target, int start) {
-//        if (target == 0) {
-//            list.add(new ArrayList<>(temp));
-//            return;
-//        }
-//        for(int i = start; i < nums.length; i++) {
-//            if (i > start && nums[i] == nums[i-1]) {
-//                continue;
-//            }
-//            if (nums[i] > target) {
-//                break;
-//            }
-//            temp.add(nums[i]);
-//            search(list, temp, nums, target - nums[i], i + 1);
-//            temp.remove(temp.size() - 1);
-//        }
-//    }
-//
-//    public List<List<Integer>> combinationSum2(int[] nums, int target) {
-//        List<List<Integer>> list = new ArrayList<>();
-//        Arrays.sort(nums);
-//        search(list, new ArrayList<>(), nums, target, 0);
-//        return list;
-//    }
-//}
+class Solution {
+    private void search(List<List<Integer>> list, List<Integer> temp, int[] nums, int target, int start) {
+        if (target == 0) {
+            list.add(new ArrayList<>(temp));
+            return;
+        }
+        for(int i = start; i < nums.length; i++) {
+            if (i > start && nums[i] == nums[i-1]) {
+                continue;
+            }
+            if (nums[i] > target) {
+                break;
+            }
+            temp.add(nums[i]);
+            search(list, temp, nums, target - nums[i], i + 1);
+
+            // loại bỏ phần tử không thỏa mãn ở cuối ArrayList khi thêm vào. (để có thể test hay thử giá trị tiếp theo)
+            // mỗi lần nó sẽ gọi Backtrack lại hàm và thay đổi giá trị(loại bỏ giá trị không thỏa mãn khi đây vào trong ArrayList
+            temp.remove(temp.size() - 1);
+        }
+    }
+
+    public List<List<Integer>> combinationSum2(int[] nums, int target) {
+        List<List<Integer>> list = new ArrayList<>();
+        Arrays.sort(nums);
+        search(list, new ArrayList<>(), nums, target, 0);
+        return list;
+    }
+}
 
 
 //! Solution 2
@@ -85,32 +88,31 @@ import java.util.*;
 
 
 //! Solution 3
-class Solution {
-    public static List<List<Integer>> combinationSum2(int[] nums, int target) {
-        List<List<Integer>> result = new ArrayList<>();
-        Arrays.sort(nums);
-        Stack<Integer> stack = new Stack<>();
-        backtrack(nums, target, 0, stack, result);
-        return result;
-    }
-    private static void backtrack(int[] nums, int target, int start, Stack<Integer> stack, List<List<Integer>> result) {
-        if (target == 0) {
-            result.add(new ArrayList<>(stack));
-            return;
-        }
-        for (int i = start; i < nums.length; i++) {
-            if (i > start && nums[i] == nums[i-1]) {
-                continue;
-            }
-            if (nums[i] > target) {
-                break;
-            }
-            stack.push(nums[i]);
-            backtrack(nums, target - nums[i], i+1, stack, result);
-            stack.pop();
-        }
-    }
-}
+//class Solution {
+//    public static List<List<Integer>> combinationSum2(int[] nums, int target) {
+//        List<List<Integer>> result = new ArrayList<>();
+//        Arrays.sort(nums);
+//        backtrack(nums, target, 0, new Stack<>(), result);
+//        return result;
+//    }
+//    private static void backtrack(int[] nums, int target, int start, Stack<Integer> stack, List<List<Integer>> result) {
+//        if (target == 0) {
+//            result.add(new ArrayList<>(stack));
+//            return;
+//        }
+//        for (int i = start; i < nums.length; i++) {
+//            if (i > start && nums[i] == nums[i-1]) {
+//                continue;
+//            }
+//            if (nums[i] > target) {
+//                break;
+//            }
+//            stack.push(nums[i]);
+//            backtrack(nums, target - nums[i], i+1, stack, result);
+//            stack.pop();
+//        }
+//    }
+//}
 
 public class CombinationSumII {
     public static void main(String[] args) {

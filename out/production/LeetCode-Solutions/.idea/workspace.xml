@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_39CombinationSum/_39CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_36ValidSudoku/_36ValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/_20ValidParentheses/_20ValidParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/_387FirstUniqueCharacterInAString/_387FirstUniqueCharacterInAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Array/CombinationSumII/CombinationSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/CombinationSumII/CombinationSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_3Sum/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_3Sum/ThreeSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/CombinationSumII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/CombinationSumII/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
       <recent name="Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CombinationSumII (1)">
+  <component name="RunManager" selected="Application.CombinationSumII">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -90,64 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombinationSumII (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CombinationSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.CombinationSumII.CombinationSumII" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Array.CombinationSumII.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CombinationSumII (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.CombinationSumII.CombinationSumII" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.CombinationSumII.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CombinationSumII (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.CombinationSumII.CombinationSumII" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.CombinationSumII.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CombinationSumII (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.CombinationSumII.CombinationSumII" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.CombinationSumII.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Find_First_and_Last_Position_of_Element_in_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.FindFirstandLastPositionofElementinSortedArray.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array.FindFirstandLastPositionofElementinSortedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,13 +118,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_20ValidParentheses (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack._20ValidParentheses._20ValidParentheses" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack._20ValidParentheses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_20ValidParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack._20ValidParentheses._20ValidParentheses" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack._20ValidParentheses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_387FirstUniqueCharacterInAString (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String._387FirstUniqueCharacterInAString._387FirstUniqueCharacterInAString" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String._387FirstUniqueCharacterInAString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_387FirstUniqueCharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String._387FirstUniqueCharacterInAString._387FirstUniqueCharacterInAString" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String._387FirstUniqueCharacterInAString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CombinationSumII (1)" />
-        <item itemvalue="Application.Find_First_and_Last_Position_of_Element_in_Sorted_Array" />
-        <item itemvalue="Application.CombinationSumII (4)" />
-        <item itemvalue="Application.CombinationSumII (3)" />
-        <item itemvalue="Application.CombinationSumII (2)" />
+        <item itemvalue="Application.CombinationSumII" />
+        <item itemvalue="Application._20ValidParentheses (1)" />
+        <item itemvalue="Application._20ValidParentheses" />
+        <item itemvalue="Application._387FirstUniqueCharacterInAString (1)" />
+        <item itemvalue="Application._387FirstUniqueCharacterInAString" />
       </list>
     </recent_temporary>
   </component>
@@ -187,20 +190,5 @@
       <updated>1674153883243</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Array/CombinationSumII/CombinationSumII.java</url>
-          <line>10</line>
-          <properties class="Array.CombinationSumII.Solution" method="func">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
