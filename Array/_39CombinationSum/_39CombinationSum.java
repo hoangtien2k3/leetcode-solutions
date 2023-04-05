@@ -5,27 +5,38 @@ import java.util.Arrays;
 import java.util.List;
 
 class Solution {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-
-        Arrays.sort(candidates);
-
-        // [2,3,6,7], target = 7
-        List<List<Integer>> list = new ArrayList<>();
-
-        for(int i = 0; i < candidates.length; i++) {
-            if (i > 0 && candidates[i] == candidates[i-1]) {
-                continue;
-            }
+    public void CombiSolve(List<List<Integer>> all_list, List<Integer> list, int[] candidates, int target, int index, int sum) {
+        if (sum > target) {
+            return; // backtract
         }
+        if (sum == target) {
+            all_list.add(new ArrayList<>(list));
+            return;
+        }
+        for(int i = index; i < candidates.length; i++) {
+            sum += candidates[i];
+            list.add(candidates[i]);
+            CombiSolve(all_list, list, candidates, target, i, sum);
+            list.remove(Integer.valueOf(candidates[i]));
+            sum -= candidates[i];
+        }
+    }
 
-
-
-        return list;
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>> all_list = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        CombiSolve(all_list, list, candidates, target, 0, 0);
+        return all_list;
     }
 }
 
-
-
 public class _39CombinationSum {
+    public static void main(String[] args) {
+        int[] candidates = new int[] {2,3,5};
+        int target = 8;
 
+        Solution solution = new Solution();
+        List<List<Integer>> all_list = solution.combinationSum(candidates, target);
+        System.out.println(all_list);
+    }
 }

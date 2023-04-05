@@ -24,8 +24,6 @@
     * [SearchInsertPosition](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/Array/SearchInsertPosition/SearchInsertPosition.java)
   * TwoSum
     * [Two Sum](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/Array/TwoSum/Two_Sum.java)
-  * ValidSudoku
-    * [ValidSudoku](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/Array/ValidSudoku/ValidSudoku.java)
 
 ## LinkedList
   * AddTwoNumbers

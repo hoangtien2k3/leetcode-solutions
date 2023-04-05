@@ -1,38 +1,32 @@
-package Array.CombinationSumII;
+package Array._40CombinationSumII;
 
-import javax.naming.PartialResultException;
-import javax.swing.plaf.SliderUI;
-import java.lang.reflect.Array;
 import java.util.*;
 
 //! Solution 1
 class Solution {
     private void search(List<List<Integer>> list, List<Integer> temp, int[] nums, int target, int start) {
         if (target == 0) {
-            list.add(new ArrayList<>(temp));
-            return;
+            list.add(new ArrayList<>(temp)); // push temp into list
+            return; // stop backtrack
         }
         for(int i = start; i < nums.length; i++) {
             if (i > start && nums[i] == nums[i-1]) {
-                continue;
+                continue; // ignore duplicate elements
             }
             if (nums[i] > target) {
-                break;
+                break; // exit for loop
             }
-            temp.add(nums[i]);
-            search(list, temp, nums, target - nums[i], i + 1);
-
-            // loại bỏ phần tử không thỏa mãn ở cuối ArrayList khi thêm vào. (để có thể test hay thử giá trị tiếp theo)
-            // mỗi lần nó sẽ gọi Backtrack lại hàm và thay đổi giá trị(loại bỏ giá trị không thỏa mãn khi đây vào trong ArrayList
-            temp.remove(temp.size() - 1);
+            temp.add(nums[i]); // add into list temp
+            search(list, temp, nums, target - nums[i], i + 1); // backtrack again
+            temp.remove(temp.size() - 1); // remove the element at the end
         }
     }
 
     public List<List<Integer>> combinationSum2(int[] nums, int target) {
         List<List<Integer>> list = new ArrayList<>();
-        Arrays.sort(nums);
-        search(list, new ArrayList<>(), nums, target, 0);
-        return list;
+        Arrays.sort(nums); // sort nums
+        search(list, new ArrayList<>(), nums, target, 0); // call function
+        return list; // return result
     }
 }
 
