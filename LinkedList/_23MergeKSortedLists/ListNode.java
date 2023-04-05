@@ -1,4 +1,4 @@
-package Array._23MergeKSortedLists;
+package LinkedList._23MergeKSortedLists;
 
 public class ListNode {
     int val;

@@ -1,4 +1,4 @@
-package LinkedList.RemoveNthNodeFromEndOfList;
+package LinkedList._19RemoveNthNodeFromEndOfList;
 
 /**
  * Definition for singly-linked list.

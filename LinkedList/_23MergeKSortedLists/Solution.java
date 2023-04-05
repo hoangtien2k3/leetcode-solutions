@@ -1,4 +1,4 @@
-package Array._23MergeKSortedLists;
+package LinkedList._23MergeKSortedLists;
 
 import java.util.ArrayList;
 import java.util.List;

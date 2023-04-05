@@ -1,6 +1,4 @@
-package Array._23MergeKSortedLists;
-
-import Array._23MergeKSortedLists.ListNode;
+package LinkedList._23MergeKSortedLists;
 
 public class Main {
     public static void main(String[] args) {

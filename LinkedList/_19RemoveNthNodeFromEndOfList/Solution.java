@@ -1,4 +1,4 @@
-package LinkedList.RemoveNthNodeFromEndOfList;
+package LinkedList._19RemoveNthNodeFromEndOfList;
 
 public class Solution {
     public int Size(Node head) {

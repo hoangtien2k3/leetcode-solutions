@@ -1,7 +1,5 @@
-package LinkedList.AddTwoNumbers;
+package LinkedList._2AddTwoNumbers;
 
-
-import java.util.LinkedList;
 
 class ListNode {
     int val;

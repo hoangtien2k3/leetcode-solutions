@@ -1,7 +1,6 @@
-package Array._21MergeTwoSortedLists;
+package LinkedList._23MergeKSortedLists;
 
 public class Add_Print_ListNode {
-    // thêm phần tử vào ListNode
     public static void addNode(ListNode list, int value) {
         ListNode temp = new ListNode(value);
         if (list == null) {

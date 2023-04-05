@@ -1,4 +1,4 @@
-package Array._21MergeTwoSortedLists;
+package LinkedList._21MergeTwoSortedLists;
 
 class Solution {
     public ListNode sort(ListNode head) {
