@@ -23,14 +23,5 @@
   * TwoSum
     * [Two Sum](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/Array/TwoSum/Two_Sum.java)
 
-## LinkedList
-  * AddTwoNumbers
-    * [AddTwoNumbers](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/LinkedList/AddTwoNumbers/AddTwoNumbers.java)
-  * RemoveNthNodeFromEndOfList
-    * [LinkedList](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/LinkedList/RemoveNthNodeFromEndOfList/LinkedList.java)
-    * [Node](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/LinkedList/RemoveNthNodeFromEndOfList/Node.java)
-    * [RemoveNthNodeFromEndofList](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/LinkedList/RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndofList.java)
-    * [Solution](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/LinkedList/RemoveNthNodeFromEndOfList/Solution.java)
-
 ## String
   * [Longest Palindromic Substring](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/String/Longest_Palindromic_Substring.java)
