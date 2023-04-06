@@ -2,8 +2,6 @@
 ## Array
   * AddTwoNumbers
     * [Add Two Numbers](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/Array/AddTwoNumbers/Add_Two_Numbers.java)
-  * CombinationSumII
-    * [CombinationSumII](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/Array/CombinationSumII/CombinationSumII.java)
   * ContainerWithMostWater
     * [Container With Most Water](https://github.com/hoangtien2k3qx1/LeetCode-Solutions/blob/main/Array/ContainerWithMostWater/Container_With_Most_Water.java)
   * FindFirstandLastPositionofElementinSortedArray
