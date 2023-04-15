@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/_24SwapNodesInPairs/Add_Print_ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/_24SwapNodesInPairs/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/_24SwapNodesInPairs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/_24SwapNodesInPairs/_24SwapNodesInPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_45JumpGameII/_45JumpGameII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,7 @@
       <recent name="Array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._24SwapNodesInPairs">
+  <component name="RunManager" selected="Application._45JumpGameII">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -91,19 +88,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList._23MergeKSortedLists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList._23MergeKSortedLists.Main" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LinkedList._23MergeKSortedLists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Longest_Palindromic_Substring" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="String.Longest_Palindromic_Substring" />
       <extension name="coverage">
@@ -116,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList._21MergeTwoSortedLists.Main" />
+    <configuration name="_45JumpGameII (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList._21MergeTwoSortedLists.*" />
+          <option name="PATTERN" value="Array._45JumpGameII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_21MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._21MergeTwoSortedLists._21MergeTwoSortedLists" />
+    <configuration name="_45JumpGameII (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList._21MergeTwoSortedLists.*" />
+          <option name="PATTERN" value="Array._45JumpGameII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_21MergeTwoSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._21MergeTwoSortedLists._21MergeTwoSortedLists" />
+    <configuration name="_45JumpGameII (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList._21MergeTwoSortedLists.*" />
+          <option name="PATTERN" value="Array._45JumpGameII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_24SwapNodesInPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList._24SwapNodesInPairs._24SwapNodesInPairs" />
+    <configuration name="_45JumpGameII (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList._24SwapNodesInPairs.*" />
+          <option name="PATTERN" value="Array._45JumpGameII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._21MergeTwoSortedLists.test" />
+    <configuration name="_45JumpGameII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinkedList._21MergeTwoSortedLists.*" />
+          <option name="PATTERN" value="Array._45JumpGameII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,10 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._24SwapNodesInPairs" />
-        <item itemvalue="Application.LinkedList._23MergeKSortedLists.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application._21MergeTwoSortedLists" />
+        <item itemvalue="Application._45JumpGameII" />
+        <item itemvalue="Application._45JumpGameII (5)" />
+        <item itemvalue="Application._45JumpGameII (4)" />
+        <item itemvalue="Application._45JumpGameII (3)" />
+        <item itemvalue="Application._45JumpGameII (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -200,5 +185,20 @@
       <updated>1674153883243</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/_45JumpGameII/_45JumpGameII.java</url>
+          <line>3</line>
+          <properties class="Array._45JumpGameII.Solution" method="jump">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
