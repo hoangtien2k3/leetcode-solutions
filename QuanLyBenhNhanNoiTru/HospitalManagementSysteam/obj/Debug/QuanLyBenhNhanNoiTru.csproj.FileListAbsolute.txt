@@ -1,0 +1,275 @@
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\HospitalManagementSysteam.exe.config
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\HospitalManagementSysteam.exe
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\HospitalManagementSysteam.pdb
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\EnvDTE.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\stdole.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.AssemblyReference.cache
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.SuggestedBindingRedirects.cache
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.BenhAn.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormHoSo.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBacSi.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBenhAn.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormDangNhap.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBenhNhan.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormThongTin.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormTimKiem.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.MainForm.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.Properties.Resources.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBatDau.resources
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.GenerateResource.cache
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.exe.licenses
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.CoreCompileInputs.cache
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.CopyComplete
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.exe
+D:\Code Java\C-Sharp-GUI-Programming\HospitalManagementSysteam\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.pdb
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.AssemblyReference.cache
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.SuggestedBindingRedirects.cache
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.BenhAn.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormHoSo.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBacSi.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormDangNhap.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBenhNhan.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormThongTin.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormTimKiem.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.MainForm.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBatDau.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.GenerateResource.cache
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.CoreCompileInputs.cache
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\EnvDTE.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\stdole.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.CopyComplete
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.exe.config
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.exe
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.pdb
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.Properties.Resources.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.exe.licenses
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.exe
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.pdb
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormBaoCao.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormDangKyTaiKhoan.resources
+D:\Code Java\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormQuenMatKhau.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.exe.config
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.exe
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.pdb
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\EnvDTE.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\stdole.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.AssemblyReference.cache
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.SuggestedBindingRedirects.cache
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.BenhAn.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormBaoCao.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormDangKyTaiKhoan.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormHoSo.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBacSi.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormDangNhap.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBenhNhan.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormQuenMatKhau.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormTimKiem.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.MainForm.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.Properties.Resources.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBatDau.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.GenerateResource.cache
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.exe.licenses
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.CoreCompileInputs.cache
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.CopyComplete
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.exe
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.pdb
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormQuanLyDangKyKhamBenh.resources
+D:\CodeJava\C-Sharp-GUI-Programming\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBenhAn.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.AssemblyReference.cache
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.SuggestedBindingRedirects.cache
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormDangKyTaiKhoan.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormHoSo.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBacSi.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormDangNhap.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBenhNhan.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBenhAn.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormQuenMatKhau.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormTimKiem.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.MainForm.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.Properties.Resources.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\HospitalManagementSysteam.FormBatDau.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.GenerateResource.cache
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.exe.licenses
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.CoreCompileInputs.cache
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.exe
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.pdb
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.exe.config
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.exe
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\QuanLyBenhNhanNoiTru.pdb
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.csproj.CopyComplete
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormMain.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormLeTan.resources
+D:\CodeJava\QuanLyBenhNhanNoiTru\HospitalManagementSysteam\obj\Debug\QuanLyBenhNhanNoiTru.FormKhamBenh.resources
