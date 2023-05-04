@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_45JumpGameII/_45JumpGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/letter-combination-of-a-phone-number-example-tree-89debbca4854285a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_46Permutations/_46Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_46Permutations/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_48RotateImage/_48RotateImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_45JumpGameII/_45JumpGameII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_45JumpGameII/_45JumpGameII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_45JumpGameII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_45JumpGameII/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_45JumpGameII/_45JumpGameII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_45JumpGameII/_45JumpGameII.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,16 +65,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/LeetCode-Solutions&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/Project_github/spring-boot-crud-intellij&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Array" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeJava\LeetCode-Solutions\Array\_46Permutations" />
+      <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application._45JumpGameII">
+  <component name="RunManager" selected="Application._48RotateImage">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -100,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_45JumpGameII (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
+    <configuration name="_46Permutations (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._46Permutations._46Permutations" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._45JumpGameII.*" />
+          <option name="PATTERN" value="Array._46Permutations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_45JumpGameII (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
+    <configuration name="_46Permutations (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._46Permutations._46Permutations" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._45JumpGameII.*" />
+          <option name="PATTERN" value="Array._46Permutations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_45JumpGameII (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
+    <configuration name="_46Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._46Permutations._46Permutations" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._45JumpGameII.*" />
+          <option name="PATTERN" value="Array._46Permutations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_45JumpGameII (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
+    <configuration name="_48RotateImage (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._48RotateImage._48RotateImage" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._45JumpGameII.*" />
+          <option name="PATTERN" value="Array._48RotateImage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_45JumpGameII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._45JumpGameII._45JumpGameII" />
+    <configuration name="_48RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._48RotateImage._48RotateImage" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._45JumpGameII.*" />
+          <option name="PATTERN" value="Array._48RotateImage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._45JumpGameII" />
-        <item itemvalue="Application._45JumpGameII (5)" />
-        <item itemvalue="Application._45JumpGameII (4)" />
-        <item itemvalue="Application._45JumpGameII (3)" />
-        <item itemvalue="Application._45JumpGameII (2)" />
+        <item itemvalue="Application._48RotateImage" />
+        <item itemvalue="Application._48RotateImage (1)" />
+        <item itemvalue="Application._46Permutations (2)" />
+        <item itemvalue="Application._46Permutations" />
+        <item itemvalue="Application._46Permutations (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -190,9 +203,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Array/_45JumpGameII/_45JumpGameII.java</url>
-          <line>3</line>
-          <properties class="Array._45JumpGameII.Solution" method="jump">
+          <url>file://$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.java</url>
+          <line>6</line>
+          <properties class="Array._17LetterCombinationsOfAPhoneNumber.Solution">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -200,5 +213,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
