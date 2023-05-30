@@ -5,88 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_125ValidPalindrome/_125ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_448FindAllNumbersDisappearedinanArray/_448FindAllNumbersDisappearedinanArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_43MultiplyStrings/_43MultiplyStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/Add_Two_Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/Add_Two_Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/ContainerWithMostWater/Container_With_Most_Water.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/ContainerWithMostWater/Container_With_Most_Water.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/ContainerWithMostWater/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/ContainerWithMostWater/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/FindFirstandLastPositionofElementinSortedArray/Find_First_and_Last_Position_of_Element_in_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/FindFirstandLastPositionofElementinSortedArray/Find_First_and_Last_Position_of_Element_in_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/FindFirstandLastPositionofElementinSortedArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/FindFirstandLastPositionofElementinSortedArray/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/GroupAnagrams/Group_Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/GroupAnagrams/Group_Anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/GroupAnagrams/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/GroupAnagrams/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MaximumSubarray/Maximum_Subarray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MaximumSubarray/Maximum_Subarray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MaximumSubarray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MaximumSubarray/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MedianofTwoSortedArrays/Median_of_Two_Sorted_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MedianofTwoSortedArrays/Median_of_Two_Sorted_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MedianofTwoSortedArrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MedianofTwoSortedArrays/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveDuplicatesfromSortedArray/Remove_Duplicates_from_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveDuplicatesfromSortedArray/Remove_Duplicates_from_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveDuplicatesfromSortedArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveDuplicatesfromSortedArray/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveElement/Remove_Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveElement/Remove_Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveElement/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveElement/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInRotatedSortedArray/Search_in_Rotated_Sorted_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInRotatedSortedArray/Search_in_Rotated_Sorted_Array.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInRotatedSortedArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInRotatedSortedArray/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInsertPosition/SearchInsertPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInsertPosition/SearchInsertPosition.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInsertPosition/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInsertPosition/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/TwoSum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/TwoSum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/TwoSum/Two_Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/TwoSum/Two_Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_17LetterCombinationsOfAPhoneNumber/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_17LetterCombinationsOfAPhoneNumber/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_35SearchInsertPosition/_35_Search_Insert_Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_35SearchInsertPosition/_35_Search_Insert_Position.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_36ValidSudoku/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_36ValidSudoku/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_36ValidSudoku/_36ValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_36ValidSudoku/_36ValidSudoku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_39CombinationSum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_39CombinationSum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_39CombinationSum/_39CombinationSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_39CombinationSum/_39CombinationSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3Sum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3Sum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3Sum/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3Sum/ThreeSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3SumClosest/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3SumClosest/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3SumClosest/Three_Sum_Closest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_3SumClosest/Three_Sum_Closest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_40CombinationSumII/CombinationSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_40CombinationSumII/CombinationSumII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_40CombinationSumII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_40CombinationSumII/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_41FirstMissingPositive/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_41FirstMissingPositive/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_41FirstMissingPositive/_41FirstMissingPositive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_41FirstMissingPositive/_41FirstMissingPositive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_45JumpGameII/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_45JumpGameII/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_45JumpGameII/_45JumpGameII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_45JumpGameII/_45JumpGameII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_46Permutations/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_46Permutations/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_46Permutations/_46Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_46Permutations/_46Permutations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_48RotateImage/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_48RotateImage/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_48RotateImage/_48RotateImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_48RotateImage/_48RotateImage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_4Sum/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_4Sum/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_4Sum/fourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_4Sum/fourSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_19RemoveNthNodeFromEndOfList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_19RemoveNthNodeFromEndOfList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_19RemoveNthNodeFromEndOfList/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_19RemoveNthNodeFromEndOfList/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_19RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndofList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_19RemoveNthNodeFromEndOfList/RemoveNthNodeFromEndofList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_19RemoveNthNodeFromEndOfList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_19RemoveNthNodeFromEndOfList/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/Add_Print_ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/Add_Print_ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/MergeSortLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/MergeSortLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_21MergeTwoSortedLists/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_23MergeKSortedLists/Add_Print_ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_23MergeKSortedLists/Add_Print_ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_23MergeKSortedLists/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_23MergeKSortedLists/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_23MergeKSortedLists/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_23MergeKSortedLists/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_23MergeKSortedLists/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_23MergeKSortedLists/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_24SwapNodesInPairs/Add_Print_ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_24SwapNodesInPairs/Add_Print_ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_24SwapNodesInPairs/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_24SwapNodesInPairs/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_24SwapNodesInPairs/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_24SwapNodesInPairs/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_24SwapNodesInPairs/_24SwapNodesInPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_24SwapNodesInPairs/_24SwapNodesInPairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_2AddTwoNumbers/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_2AddTwoNumbers/AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_2AddTwoNumbers/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_2AddTwoNumbers/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_2AddTwoNumbers/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_2AddTwoNumbers/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_61RotateList/Add_Print_ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_61RotateList/Add_Print_ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_61RotateList/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_61RotateList/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_61RotateList/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_61RotateList/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_61RotateList/_61RotateList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/LinkedList/_61RotateList/_61RotateList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Stack/_20ValidParentheses/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Stack/_20ValidParentheses/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Stack/_20ValidParentheses/_20ValidParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Stack/_20ValidParentheses/_20ValidParentheses.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/Longest_Palindromic_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/Longest_Palindromic_Substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/Solution_Longest_Palindromic_Substring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/Solution_Longest_Palindromic_Substring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/_387FirstUniqueCharacterInAString/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/_387FirstUniqueCharacterInAString/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/_387FirstUniqueCharacterInAString/_387FirstUniqueCharacterInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/_387FirstUniqueCharacterInAString/_387FirstUniqueCharacterInAString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,16 +50,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/learn-spring-boot/hospital&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "D:/CodeJava/HọcTập/Phan-Tich-Thiet-Ke-He-Thong-Thong-Tin",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Array" />
@@ -149,7 +70,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._125ValidPalindrome">
+  <component name="RunManager" selected="Application._43MultiplyStrings">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -197,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_448FindAllNumbersDisappearedinanArray (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._448FindAllNumbersDisappearedinanArray._448FindAllNumbersDisappearedinanArray" />
+    <configuration name="_43MultiplyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._43MultiplyStrings._43MultiplyStrings" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._448FindAllNumbersDisappearedinanArray.*" />
+          <option name="PATTERN" value="Array._43MultiplyStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._43MultiplyStrings" />
         <item itemvalue="Application._125ValidPalindrome" />
         <item itemvalue="Application._448FindAllNumbersDisappearedinanArray (5)" />
         <item itemvalue="Application._448FindAllNumbersDisappearedinanArray (4)" />
         <item itemvalue="Application._448FindAllNumbersDisappearedinanArray (3)" />
-        <item itemvalue="Application._448FindAllNumbersDisappearedinanArray (2)" />
       </list>
     </recent_temporary>
   </component>
