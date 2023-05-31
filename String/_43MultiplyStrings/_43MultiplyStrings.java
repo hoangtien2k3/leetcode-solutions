@@ -1,7 +1,4 @@
-package Array._43MultiplyStrings;
-
-import java.util.ArrayList;
-import java.util.List;
+package String._43MultiplyStrings;
 
 class Solution {
     // cách 1
@@ -42,41 +39,39 @@ class Solution {
     }
 
 
+    // cách 2:
     public String mul(String a, String b) {
         String res = "";
-        int n = a.length();
-        int m = b.length();
-        int len = n + m - 1;
+        int m = a.length();
+        int n = b.length();
+        int len = m + n - 1;
 
-        // Đảo ngược chuỗi đầu vào
         a = new StringBuilder(a).reverse().toString();
         b = new StringBuilder(b).reverse().toString();
 
-        int carry = 0; // biến nhớ
-        for (int i = 0; i < len; i++) {
-            int tmp = 0;
-            for (int j = 0; j < n; j++) {
-                if (i - j < m && i - j >= 0) {  // kiểm tra xem vị trí hiện tại trong vòng lặp có thuộc phạm vi của chuỗi b hay không.
-                    int a1 = a.charAt(j) - '0';
-                    int b1 = b.charAt(i - j) - '0';
-                    tmp += a1 * b1;
+        int carry = 0;
+        for(int i = 0; i < len; i++) {
+            int temp = 0;
+            for(int j = 0; j < m; j++) {
+                // i - j < n : kiểm tra xem vị trí hiện tại trong vòng lặp thứ j có năm trong phạm vi của chuỗi b hay không.
+                // i - j >= 0 : để chỉ mục index không bao giờ được nhỏ hay vượt quá.
+                if (i - j < n && i - j >= 0) {
+                    temp += (a.charAt(j) - '0') * (b.charAt(i - j) - '0');
                 }
             }
-            tmp += carry;
-            carry = tmp / 10;
-            res = (char) (tmp % 10 + '0') + res;
+            temp += carry;
+            carry = temp/10;
+            res = (char)(temp % 10 + '0') + res;
         }
 
-        // Kiểm tra và xử lý trường hợp carry còn dư
-        while (carry > 0) {
-            res = (char) (carry % 10 + '0') + res;
+        while(carry > 0) {
+            res = (char)(carry % 10 + '0') + res;
             carry /= 10;
         }
 
-
-        // Loại bỏ các chữ số 0 thừa ở đầu
+        // loai bo phan so 0 thu
         StringBuilder sb = new StringBuilder(res);
-        while (sb.length() > 0 && sb.charAt(0) == '0') {
+        while(res.length() > 0 && res.charAt(0) == '0') {
             sb.deleteCharAt(0);
         }
 
