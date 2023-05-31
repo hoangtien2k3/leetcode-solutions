@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/String/_415AddStrings/_415AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/_67AddBinary/_67AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_66PlusOne/_66PlusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_989AddtoArray_FormofInteger/_989AddtoArray_FormofInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_43MultiplyStrings/_43MultiplyStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/_43MultiplyStrings/_43MultiplyStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_43MultiplyStrings/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_43MultiplyStrings/_43MultiplyStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String/_67AddBinary/_67AddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/_67AddBinary/_67AddBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/_67AddBinary/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/_67AddBinary/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/_67AddBinary/_67AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/String/_67AddBinary/_67AddBinary.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +74,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._67AddBinary">
+  <component name="RunManager" selected="Application._989AddtoArray_FormofInteger (5)">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -136,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_67AddBinary (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String._67AddBinary._67AddBinary" />
+    <configuration name="_989AddtoArray_FormofInteger (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._989AddtoArray_FormofInteger._989AddtoArray_FormofInteger" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String._67AddBinary.*" />
+          <option name="PATTERN" value="Array._989AddtoArray_FormofInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_67AddBinary (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String._67AddBinary._67AddBinary" />
+    <configuration name="_989AddtoArray_FormofInteger (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._989AddtoArray_FormofInteger._989AddtoArray_FormofInteger" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String._67AddBinary.*" />
+          <option name="PATTERN" value="Array._989AddtoArray_FormofInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_67AddBinary (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String._67AddBinary._67AddBinary" />
+    <configuration name="_989AddtoArray_FormofInteger (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._989AddtoArray_FormofInteger._989AddtoArray_FormofInteger" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String._67AddBinary.*" />
+          <option name="PATTERN" value="Array._989AddtoArray_FormofInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_67AddBinary (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String._67AddBinary._67AddBinary" />
+    <configuration name="_989AddtoArray_FormofInteger (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._989AddtoArray_FormofInteger._989AddtoArray_FormofInteger" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String._67AddBinary.*" />
+          <option name="PATTERN" value="Array._989AddtoArray_FormofInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_67AddBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String._67AddBinary._67AddBinary" />
+    <configuration name="_989AddtoArray_FormofInteger (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._989AddtoArray_FormofInteger._989AddtoArray_FormofInteger" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String._67AddBinary.*" />
+          <option name="PATTERN" value="Array._989AddtoArray_FormofInteger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._67AddBinary" />
-        <item itemvalue="Application._67AddBinary (5)" />
-        <item itemvalue="Application._67AddBinary (4)" />
-        <item itemvalue="Application._67AddBinary (3)" />
-        <item itemvalue="Application._67AddBinary (2)" />
+        <item itemvalue="Application._989AddtoArray_FormofInteger (5)" />
+        <item itemvalue="Application._989AddtoArray_FormofInteger (4)" />
+        <item itemvalue="Application._989AddtoArray_FormofInteger (3)" />
+        <item itemvalue="Application._989AddtoArray_FormofInteger (2)" />
+        <item itemvalue="Application._989AddtoArray_FormofInteger (1)" />
       </list>
     </recent_temporary>
   </component>
