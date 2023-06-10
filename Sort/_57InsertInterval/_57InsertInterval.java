@@ -1,24 +1,19 @@
-package Sort._56MergeIntervals;
-
+package Sort._57InsertInterval;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 class Solution {
-    public static int[][] merge(int[][] intervals) {
+    public static int[][] insert(int[][] intervals, int[] newInterval) {
 
-        // sắp xếp mảng 2 chiều tăng dần với từng cặp phần tử trong mảng
-        /*
-            int[][] intervals` ban đầu là `[[2,3],[1,4],[8,10],[4,6]]
-            sắp xếp thành:
-            [[1,4],[2,3],[4,6],[8,10]]
+        int[][] result = Arrays.copyOf(intervals, intervals.length + 1);
+        result[intervals.length] = newInterval;
 
-        */
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
+        Arrays.sort(result, (a, b) -> a[0] - b[0]);
 
         List<int[]> output = new ArrayList<>();
-        for(int[] interval : intervals) {
+        for(int[] interval : result) {
             // kiểm tra xem List<int[]> output đã có thêm phần từ nào vào chưa
             // hoặc giá trị thứ 2 trong mảng 1 chiều nằm trong output có nhỏ hơn giá trị thứ nhất trong mảng 1 chiều interval[0] không.
             // nếu thỏa mãn thì add phần tử vào output
@@ -42,14 +37,16 @@ class Solution {
         }
 
         return ans;
+
     }
 }
 
-public class _56MergeIntervals {
-
+public class _57InsertInterval {
     public static void main(String[] args) {
-        int[][] intervals = {{1, 3}, {2, 6}, {8, 10}, {15, 18}};
-        int[][] ans = Solution.merge(intervals);
+        int[][] intervals = {{1, 3}, {6, 9}};
+        int[] newInterval = {2, 5};
+
+        int[][] ans = Solution.insert(intervals, newInterval);
 
         System.out.print("[");
         for(int i = 0; i < ans.length; i++) {

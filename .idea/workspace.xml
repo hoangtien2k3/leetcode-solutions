@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_53MaximumSubarray/_53MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_704BinarySearch/_704BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_79WordSearch/_79WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/_56MergeIntervals/_56MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort/_57InsertInterval/_57InsertInterval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sort/_56MergeIntervals/_56MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/_56MergeIntervals/_56MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Sort/_56MergeIntervals/_56MergeIntervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Sort/_56MergeIntervals/_56MergeIntervals.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._56MergeIntervals">
+  <component name="RunManager" selected="Application._57InsertInterval">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -107,19 +104,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_56MergeIntervals (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sort._56MergeIntervals._56MergeIntervals" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Sort._56MergeIntervals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,13 +163,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_57InsertInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort._57InsertInterval._57InsertInterval" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sort._57InsertInterval.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._57InsertInterval" />
         <item itemvalue="Application._56MergeIntervals" />
         <item itemvalue="Application._56MergeIntervals (5)" />
         <item itemvalue="Application._56MergeIntervals (4)" />
         <item itemvalue="Application._56MergeIntervals (3)" />
-        <item itemvalue="Application._56MergeIntervals (2)" />
       </list>
     </recent_temporary>
   </component>
