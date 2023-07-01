@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_53MaximumSubarray/_53MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_704BinarySearch/_704BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_79WordSearch/_79WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sort/_56MergeIntervals/_56MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_42TrappingRainWater/_42TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_9PalindromeNumber/_9PalindromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +63,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/HọcTập/Kien-Truc-May-Tinh&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
@@ -79,7 +76,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._56MergeIntervals">
+  <component name="RunManager" selected="Application._9PalindromeNumber">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -114,12 +111,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_53MaximumSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._53MaximumSubarray._53MaximumSubarray" />
+    <configuration name="_42TrappingRainWater (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._42TrappingRainWater._42TrappingRainWater" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._53MaximumSubarray.*" />
+          <option name="PATTERN" value="Array._42TrappingRainWater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_42TrappingRainWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._42TrappingRainWater._42TrappingRainWater" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array._42TrappingRainWater.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_79WordSearch (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._79WordSearch._79WordSearch" />
+    <configuration name="_57InsertInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sort._57InsertInterval._57InsertInterval" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._79WordSearch.*" />
+          <option name="PATTERN" value="Sort._57InsertInterval.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,25 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_79WordSearch (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._79WordSearch._79WordSearch" />
+    <configuration name="_9PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._9PalindromeNumber._9PalindromeNumber" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._79WordSearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_79WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._79WordSearch._79WordSearch" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._79WordSearch.*" />
+          <option name="PATTERN" value="Array._9PalindromeNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._9PalindromeNumber" />
+        <item itemvalue="Application._42TrappingRainWater (1)" />
+        <item itemvalue="Application._42TrappingRainWater" />
+        <item itemvalue="Application._57InsertInterval" />
         <item itemvalue="Application._56MergeIntervals" />
-        <item itemvalue="Application._53MaximumSubarray" />
-        <item itemvalue="Application._79WordSearch (3)" />
-        <item itemvalue="Application._79WordSearch" />
-        <item itemvalue="Application._79WordSearch (2)" />
       </list>
     </recent_temporary>
   </component>
