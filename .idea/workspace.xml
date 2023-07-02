@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_10RegularExpressionMatching/_10RegularExpressionMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_13RomantoInteger/_13RomantoInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_42TrappingRainWater/_42TrappingRainWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_9PalindromeNumber/_9PalindromeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_1146SnapshotArray/_1146SnapshotArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_1232CheckIfItIsaStraightLine/_1232CheckIfItIsaStraightLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_7ReverseInteger/_7ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_88MergeSortedArray/_88MergeSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -65,7 +66,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/HọcTập/Kien-Truc-May-Tinh&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/learn-spring-boot/rest-demo/rest-demo&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
@@ -78,7 +79,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._13RomantoInteger (3)">
+  <component name="RunManager" selected="Application._1232CheckIfItIsaStraightLine (3)">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -113,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13RomantoInteger (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._13RomantoInteger._13RomantoInteger" />
+    <configuration name="_1146SnapshotArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._1146SnapshotArray._1146SnapshotArray" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._13RomantoInteger.*" />
+          <option name="PATTERN" value="Array._1146SnapshotArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13RomantoInteger (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._13RomantoInteger._13RomantoInteger" />
+    <configuration name="_1232CheckIfItIsaStraightLine (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._1232CheckIfItIsaStraightLine._1232CheckIfItIsaStraightLine" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._13RomantoInteger.*" />
+          <option name="PATTERN" value="Array._1232CheckIfItIsaStraightLine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13RomantoInteger (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._13RomantoInteger._13RomantoInteger" />
+    <configuration name="_1232CheckIfItIsaStraightLine (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._1232CheckIfItIsaStraightLine._1232CheckIfItIsaStraightLine" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._13RomantoInteger.*" />
+          <option name="PATTERN" value="Array._1232CheckIfItIsaStraightLine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13RomantoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._13RomantoInteger._13RomantoInteger" />
+    <configuration name="_1232CheckIfItIsaStraightLine (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._1232CheckIfItIsaStraightLine._1232CheckIfItIsaStraightLine" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._13RomantoInteger.*" />
+          <option name="PATTERN" value="Array._1232CheckIfItIsaStraightLine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_9PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._9PalindromeNumber._9PalindromeNumber" />
+    <configuration name="_1232CheckIfItIsaStraightLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._1232CheckIfItIsaStraightLine._1232CheckIfItIsaStraightLine" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._9PalindromeNumber.*" />
+          <option name="PATTERN" value="Array._1232CheckIfItIsaStraightLine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._13RomantoInteger (3)" />
-        <item itemvalue="Application._13RomantoInteger (2)" />
-        <item itemvalue="Application._13RomantoInteger (1)" />
-        <item itemvalue="Application._13RomantoInteger" />
-        <item itemvalue="Application._9PalindromeNumber" />
+        <item itemvalue="Application._1232CheckIfItIsaStraightLine (3)" />
+        <item itemvalue="Application._1232CheckIfItIsaStraightLine (2)" />
+        <item itemvalue="Application._1232CheckIfItIsaStraightLine (1)" />
+        <item itemvalue="Application._1232CheckIfItIsaStraightLine" />
+        <item itemvalue="Application._1146SnapshotArray" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +211,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/_88MergeSortedArray/_88MergeSortedArray.java</url>
+          <line>3</line>
+          <properties class="Array._88MergeSortedArray.Solution" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Array/_13RomantoInteger/_13RomantoInteger.java</url>
