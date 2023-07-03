@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_14LongestCommonPrefix/_14LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_3Sum/abc.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_70ClimbingStairs/_70ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode-Solutions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/LeetCode-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/LeetCode-Solutions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/_228SummaryRanges.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/_228SummaryRanges.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/DIRECTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/DIRECTORY.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -76,7 +83,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._14LongestCommonPrefix">
+  <component name="RunManager" selected="Kotlin.AbcKt">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -111,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14LongestCommonPrefix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._14LongestCommonPrefix._14LongestCommonPrefix" />
+    <configuration name="_228SummaryRanges (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._228SummaryRanges._228SummaryRanges" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._14LongestCommonPrefix.*" />
+          <option name="PATTERN" value="Array._228SummaryRanges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_14LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._14LongestCommonPrefix._14LongestCommonPrefix" />
+    <configuration name="_70ClimbingStairs (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._70ClimbingStairs._70ClimbingStairs" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._14LongestCommonPrefix.*" />
+          <option name="PATTERN" value="Array._70ClimbingStairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_242ValidAnagram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._242ValidAnagram._242ValidAnagram" />
+    <configuration name="_70ClimbingStairs (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._70ClimbingStairs._70ClimbingStairs" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._242ValidAnagram.*" />
+          <option name="PATTERN" value="Array._70ClimbingStairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_242ValidAnagram (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._242ValidAnagram._242ValidAnagram" />
+    <configuration name="_70ClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._70ClimbingStairs._70ClimbingStairs" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._242ValidAnagram.*" />
+          <option name="PATTERN" value="Array._70ClimbingStairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,26 +170,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_242ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._242ValidAnagram._242ValidAnagram" />
+    <configuration name="AbcKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._3Sum.AbcKt" />
       <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._242ValidAnagram.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._14LongestCommonPrefix" />
-        <item itemvalue="Application._14LongestCommonPrefix (1)" />
-        <item itemvalue="Application._242ValidAnagram (2)" />
-        <item itemvalue="Application._242ValidAnagram (1)" />
-        <item itemvalue="Application._242ValidAnagram" />
+        <item itemvalue="Kotlin.AbcKt" />
+        <item itemvalue="Application._70ClimbingStairs" />
+        <item itemvalue="Application._70ClimbingStairs (2)" />
+        <item itemvalue="Application._70ClimbingStairs (1)" />
+        <item itemvalue="Application._228SummaryRanges (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -229,5 +230,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode_Solutions$_128LongestConsecutiveSequence__1_.ic" NAME="_128LongestConsecutiveSequence (1) Coverage Results" MODIFIED="1688373361365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Array._128LongestConsecutiveSequence.*</FILTER>
+    </SUITE>
   </component>
 </project>

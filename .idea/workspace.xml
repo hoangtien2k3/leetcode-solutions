@@ -5,47 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_128LongestConsecutiveSequence/_128LongestConsecutiveSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_14LongestCommonPrefix/_14LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_228SummaryRanges/_228SummaryRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_744FindSmallestLetterGreaterThanTarget/_744FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_22GenerateParentheses/_22GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_70ClimbingStairs/_70ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCode-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode-Solutions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/AddTwoNumbers/Add_Two_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_2AddTwoNumbers/_2AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/ContainerWithMostWater/Container_With_Most_Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_11ContainerWithMostWater/_11ContainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/FindFirstandLastPositionofElementinSortedArray/Find_First_and_Last_Position_of_Element_in_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_34FindFirstandLastPositionofElementinSortedArray/_34FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/GroupAnagrams/Group_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_49GroupAnagrams/_49GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/MaximumSubarray/Maximum_Subarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/MedianofTwoSortedArrays/Median_of_Two_Sorted_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_4MedianofTwoSortedArrays/_4MedianofTwoSortedArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/RemoveDuplicatesfromSortedArray/Remove_Duplicates_from_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_26RemoveDuplicatesfromSortedArray/_26RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/RemoveElement/Remove_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_27RemoveElement/_27RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/SearchInRotatedSortedArray/Search_in_Rotated_Sorted_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_33SearchInRotatedSortedArray/_33SearchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/SearchInsertPosition/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_33SearchInsertPosition/_33SearchInsertPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/TwoSum/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_1TwoSum/_1TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/LeetCode-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/LeetCode-Solutions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/Add_Two_Numbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/AddTwoNumbers/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/ContainerWithMostWater/Container_With_Most_Water.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/ContainerWithMostWater/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/FindFirstandLastPositionofElementinSortedArray/Find_First_and_Last_Position_of_Element_in_Sorted_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/FindFirstandLastPositionofElementinSortedArray/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/GroupAnagrams/Group_Anagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/GroupAnagrams/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MaximumSubarray/Maximum_Subarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MaximumSubarray/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MedianofTwoSortedArrays/Median_of_Two_Sorted_Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/MedianofTwoSortedArrays/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveDuplicatesfromSortedArray/Remove_Duplicates_from_Sorted_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveDuplicatesfromSortedArray/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveElement/Remove_Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/RemoveElement/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInRotatedSortedArray/Search_in_Rotated_Sorted_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInRotatedSortedArray/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInsertPosition/SearchInsertPosition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/SearchInsertPosition/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/TwoSum/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/TwoSum/Two_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/_228SummaryRanges.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/_228SummaryRanges.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/DIRECTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/DIRECTORY.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -113,7 +87,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._228SummaryRanges (2)">
+  <component name="RunManager" selected="Application._22GenerateParentheses (3)">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -148,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_128LongestConsecutiveSequence (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._128LongestConsecutiveSequence._128LongestConsecutiveSequence" />
+    <configuration name="_22GenerateParentheses (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._128LongestConsecutiveSequence.*" />
+          <option name="PATTERN" value="Array._22GenerateParentheses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_128LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._128LongestConsecutiveSequence._128LongestConsecutiveSequence" />
+    <configuration name="_22GenerateParentheses (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._128LongestConsecutiveSequence.*" />
+          <option name="PATTERN" value="Array._22GenerateParentheses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_228SummaryRanges (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._228SummaryRanges._228SummaryRanges" />
+    <configuration name="_22GenerateParentheses (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._228SummaryRanges.*" />
+          <option name="PATTERN" value="Array._22GenerateParentheses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_228SummaryRanges (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._228SummaryRanges._228SummaryRanges" />
+    <configuration name="_22GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._228SummaryRanges.*" />
+          <option name="PATTERN" value="Array._22GenerateParentheses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,26 +174,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_228SummaryRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._228SummaryRanges._228SummaryRanges" />
+    <configuration name="AbcKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._3Sum.AbcKt" />
       <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._228SummaryRanges.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._228SummaryRanges (2)" />
-        <item itemvalue="Application._228SummaryRanges (1)" />
-        <item itemvalue="Application._228SummaryRanges" />
-        <item itemvalue="Application._128LongestConsecutiveSequence (2)" />
-        <item itemvalue="Application._128LongestConsecutiveSequence" />
+        <item itemvalue="Application._22GenerateParentheses (3)" />
+        <item itemvalue="Application._22GenerateParentheses (2)" />
+        <item itemvalue="Application._22GenerateParentheses" />
+        <item itemvalue="Application._22GenerateParentheses (1)" />
+        <item itemvalue="Kotlin.AbcKt" />
       </list>
     </recent_temporary>
   </component>
@@ -254,6 +222,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/_22GenerateParentheses/_22GenerateParentheses.java</url>
+          <line>6</line>
+          <properties class="Array._22GenerateParentheses.Solution" method="recursionParenthesis">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Array/_13RomantoInteger/_13RomantoInteger.java</url>
