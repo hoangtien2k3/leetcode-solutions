@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_88MergeSortedArray/_88MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_14LongestCommonPrefix/_14LongestCommonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/learn-spring-boot/rest-demo/rest-demo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/LeetCode-Solutions&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
 }</component>
@@ -74,7 +76,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._88MergeSortedArray">
+  <component name="RunManager" selected="Application._14LongestCommonPrefix">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -109,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13RomantoInteger (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._13RomantoInteger._13RomantoInteger" />
+    <configuration name="_14LongestCommonPrefix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._14LongestCommonPrefix._14LongestCommonPrefix" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._13RomantoInteger.*" />
+          <option name="PATTERN" value="Array._14LongestCommonPrefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13RomantoInteger (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._13RomantoInteger._13RomantoInteger" />
+    <configuration name="_14LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._14LongestCommonPrefix._14LongestCommonPrefix" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._13RomantoInteger.*" />
+          <option name="PATTERN" value="Array._14LongestCommonPrefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13RomantoInteger (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._13RomantoInteger._13RomantoInteger" />
+    <configuration name="_242ValidAnagram (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._242ValidAnagram._242ValidAnagram" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._13RomantoInteger.*" />
+          <option name="PATTERN" value="Array._242ValidAnagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_13RomantoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._13RomantoInteger._13RomantoInteger" />
+    <configuration name="_242ValidAnagram (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._242ValidAnagram._242ValidAnagram" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._13RomantoInteger.*" />
+          <option name="PATTERN" value="Array._242ValidAnagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_88MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._88MergeSortedArray._88MergeSortedArray" />
+    <configuration name="_242ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._242ValidAnagram._242ValidAnagram" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._88MergeSortedArray.*" />
+          <option name="PATTERN" value="Array._242ValidAnagram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._88MergeSortedArray" />
-        <item itemvalue="Application._13RomantoInteger (3)" />
-        <item itemvalue="Application._13RomantoInteger (2)" />
-        <item itemvalue="Application._13RomantoInteger (1)" />
-        <item itemvalue="Application._13RomantoInteger" />
+        <item itemvalue="Application._14LongestCommonPrefix" />
+        <item itemvalue="Application._14LongestCommonPrefix (1)" />
+        <item itemvalue="Application._242ValidAnagram (2)" />
+        <item itemvalue="Application._242ValidAnagram (1)" />
+        <item itemvalue="Application._242ValidAnagram" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +208,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/_88MergeSortedArray/_88MergeSortedArray.java</url>
+          <line>3</line>
+          <properties class="Array._88MergeSortedArray.Solution" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Array/_13RomantoInteger/_13RomantoInteger.java</url>
