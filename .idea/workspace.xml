@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_22GenerateParentheses/_22GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_70ClimbingStairs/_70ClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode-Solutions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/SolutionKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_1TwoSum/Solution.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_22GenerateParentheses/SolutionKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/LeetCode-Solutions.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/LeetCode-Solutions.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/_228SummaryRanges.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_228SummaryRanges/_228SummaryRanges.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/DIRECTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/DIRECTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_22GenerateParentheses/_22GenerateParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_22GenerateParentheses/_22GenerateParentheses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/META-INF/LeetCode-Solutions.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/META-INF/LeetCode-Solutions.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,7 @@
       <list>
         <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -63,21 +57,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeJava/LeetCode-Solutions&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-18",
+    "last_opened_file_path": "D:/CodeJava/LeetCode-Solutions",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Array" />
@@ -87,7 +81,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._22GenerateParentheses (3)">
+  <component name="RunManager" selected="Kotlin.SolutionKotlinKt (1)">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -122,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_22GenerateParentheses (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._22GenerateParentheses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_22GenerateParentheses (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
       <module name="LeetCode-Solutions" />
@@ -161,21 +142,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_22GenerateParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
+    <configuration name="SolutionKotlinKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses.SolutionKotlinKt" />
       <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._22GenerateParentheses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbcKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._3Sum.AbcKt" />
+    <configuration name="SolutionKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._17LetterCombinationsOfAPhoneNumber.SolutionKotlinKt" />
+      <module name="LeetCode-Solutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._1TwoSum.SolutionKt" />
       <module name="LeetCode-Solutions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -183,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SolutionKotlinKt (1)" />
+        <item itemvalue="Kotlin.SolutionKotlinKt" />
+        <item itemvalue="Kotlin.SolutionKt" />
         <item itemvalue="Application._22GenerateParentheses (3)" />
         <item itemvalue="Application._22GenerateParentheses (2)" />
-        <item itemvalue="Application._22GenerateParentheses" />
-        <item itemvalue="Application._22GenerateParentheses (1)" />
-        <item itemvalue="Kotlin.AbcKt" />
       </list>
     </recent_temporary>
   </component>
@@ -205,15 +187,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/_17LetterCombinationsOfAPhoneNumber.java</url>
-          <line>5</line>
-          <properties class="Array._17LetterCombinationsOfAPhoneNumber.Solution">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Array/_88MergeSortedArray/_88MergeSortedArray.java</url>
           <line>3</line>
