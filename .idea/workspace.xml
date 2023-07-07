@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_17LetterCombinationsOfAPhoneNumber/SolutionKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_1TwoSum/Solution.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_22GenerateParentheses/SolutionKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_88MergeSortedArray/SolutionKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_22GenerateParentheses/_22GenerateParentheses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_22GenerateParentheses/_22GenerateParentheses.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/META-INF/LeetCode-Solutions.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/META-INF/LeetCode-Solutions.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +77,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SolutionKotlinKt (1)">
+  <component name="RunManager" selected="Kotlin.SolutionKotlinKt (2)">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -116,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_22GenerateParentheses (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
+    <configuration name="_88MergeSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._88MergeSortedArray._88MergeSortedArray" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._22GenerateParentheses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_22GenerateParentheses (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses._22GenerateParentheses" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._22GenerateParentheses.*" />
+          <option name="PATTERN" value="Array._88MergeSortedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,6 +127,13 @@
     </configuration>
     <configuration name="SolutionKotlinKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array._22GenerateParentheses.SolutionKotlinKt" />
+      <module name="LeetCode-Solutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionKotlinKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._88MergeSortedArray.SolutionKotlinKt" />
       <module name="LeetCode-Solutions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SolutionKotlinKt (2)" />
+        <item itemvalue="Application._88MergeSortedArray" />
         <item itemvalue="Kotlin.SolutionKotlinKt (1)" />
         <item itemvalue="Kotlin.SolutionKotlinKt" />
         <item itemvalue="Kotlin.SolutionKt" />
-        <item itemvalue="Application._22GenerateParentheses (3)" />
-        <item itemvalue="Application._22GenerateParentheses (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -188,15 +178,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Array/_88MergeSortedArray/_88MergeSortedArray.java</url>
-          <line>3</line>
-          <properties class="Array._88MergeSortedArray.Solution" method="merge">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Array/_22GenerateParentheses/_22GenerateParentheses.java</url>
           <line>6</line>
           <properties class="Array._22GenerateParentheses.Solution" method="recursionParenthesis">
@@ -204,6 +185,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/_88MergeSortedArray/_88MergeSortedArray.java</url>
+          <line>3</line>
+          <properties class="Array._88MergeSortedArray.Solution" method="merge">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Array/_13RomantoInteger/_13RomantoInteger.java</url>
