@@ -6,9 +6,10 @@ class SolutionKotlin {
         for(i in nums.indices) {
             val complement = target - nums[i]
             if (map.containsKey(complement)) {
-                return intArrayOf(map.get(complement)!!, i)
+                return intArrayOf(map[complement]!!, i)
             }
-            map.put(nums[i], i)
+            map[nums[i]] = i
+            // map.put(nums[i], i)
         }
         throw IllegalArgumentException("No two sum solution")
     }
