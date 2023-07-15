@@ -1,8 +1,10 @@
 package Array._66PlusOne;
 
+import java.util.Arrays;
+
 class Solution {
     public static int[] plusOne(int[] digits) {
-        for(int i = digits.length - 1; i >= 0; i--) {
+        for (int i = digits.length - 1; i >= 0; i--) {
             if (digits[i] < 9) {
                 digits[i]++;
                 return digits;
@@ -19,7 +21,7 @@ class Solution {
 
 public class _66PlusOne {
     public static void main(String[] args) {
-        int[] nums = {1,2,3};
-        System.out.println(Solution.plusOne(nums));
+        int[] nums = {1, 2, 3};
+        System.out.println(Arrays.toString(Solution.plusOne(nums)));
     }
 }
