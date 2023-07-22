@@ -1,7 +1,5 @@
 package Tree._94BinaryTreeInorderTraversal;
 
-import com.sun.source.tree.Tree;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -20,7 +18,6 @@ import java.util.List;
  *     }
  * }
  */
-
 class TreeNode {
     int val;
     TreeNode left;
@@ -41,7 +38,6 @@ class TreeNode {
 }
 
 class Solution {
-
     private void tree_browsing(TreeNode root, List<Integer> list) {
         if (root != null) {
             tree_browsing(root.left, list);
@@ -58,7 +54,6 @@ class Solution {
         return list;
     }
 }
-
 
 public class _94BinaryTreeInorderTraversal {
     public static void main(String[] args) {
