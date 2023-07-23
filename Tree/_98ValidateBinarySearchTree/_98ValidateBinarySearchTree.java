@@ -15,7 +15,6 @@ package Tree._98ValidateBinarySearchTree;
  *     }
  * }
  */
-
 class TreeNode {
     int val;
     TreeNode left;
@@ -45,13 +44,8 @@ class Solution {
             return true;
         }
 
-        // check giá trị của node con bên trái phải bé hơn giá trị root
-        // đồng thời giá trị của node con bên phải lớn hơn giá trị của root
-        // ở đây ta so sánh với giá trị min và giá trị max
         if (root.val > min && root.val < max) {
-            // đệ quy sang bên trái
             boolean leftValid = checkBinarySearchTree(root.left, min, root.val);
-            // đệ quy sang bên phải
             boolean rightValid = checkBinarySearchTree(root.right, root.val, max);
             return leftValid && rightValid;
         } else {
