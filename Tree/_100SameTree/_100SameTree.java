@@ -15,7 +15,6 @@ package Tree._100SameTree;
  *     }
  * }
  */
-
 class TreeNode {
     int val;
     TreeNode left;

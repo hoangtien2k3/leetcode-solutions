@@ -1,7 +1,5 @@
 package LinkedList._61RotateList;
 
-import LinkedList._61RotateList.ListNode;
-
 public class Add_Print_ListNode {
     public static void addNode(ListNode list, int value) {
         ListNode temp = new ListNode(value);
