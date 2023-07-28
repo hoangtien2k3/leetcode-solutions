@@ -1,19 +1,18 @@
 package Array._4MedianofTwoSortedArrays;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
-class Solution { // java
+class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        List<Integer> arrlist = new ArrayList<Integer>();
-        for(int i = 0; i < nums1.length; i++)
-            arrlist.add(nums1[i]);
-        for(int i = 0; i < nums2.length; i++)
-            arrlist.add(nums2[i]);
-        Collections.sort(arrlist, (o1, o2) -> o1.compareTo(o2));
+        List<Integer> arrlist = new ArrayList<>();
+        for (int j : nums1) arrlist.add(j);
+        for (int j : nums2) arrlist.add(j);
+        arrlist.sort(Integer::compareTo);
         int n = arrlist.size();
-        return (n%2==0)?(double)(arrlist.get((n/2)-1)+arrlist.get(n/2))/2:(double)(arrlist.get(n/2));
+        return (n % 2 == 0)
+                ? (double) (arrlist.get((n / 2) - 1) + arrlist.get(n / 2)) / 2
+                : (double) (arrlist.get(n / 2));
     }
 }
 
