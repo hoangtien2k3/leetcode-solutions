@@ -18,7 +18,9 @@ class Solution {
             }
         }
 
-        return stringBuilder.isEmpty() ? "" : stringBuilder.toString();
+        String result = stringBuilder.toString();
+
+        return result.isEmpty() ? "" : stringBuilder.toString();
     }
 }
 
