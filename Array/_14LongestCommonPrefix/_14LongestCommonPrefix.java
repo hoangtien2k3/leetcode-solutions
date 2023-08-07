@@ -19,7 +19,6 @@ class Solution {
         }
 
         String result = stringBuilder.toString();
-
         return result.isEmpty() ? "" : stringBuilder.toString();
     }
 }
