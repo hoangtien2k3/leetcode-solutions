@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_73SetMatrixZeroes/_73SetMatrixZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_73SetMatrixZeroes/_73SetMatrixZeroes_Kotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_14LongestCommonPrefix/_14LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_14LongestCommonPrefix/_14LongestCommonPrefix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -77,7 +76,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._73SetMatrixZeroes (2)">
+  <component name="RunManager" selected="Kotlin._73SetMatrixZeroes_KotlinKt">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -125,33 +124,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_54SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._54SpiralMatrix._54SpiralMatrix" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._54SpiralMatrix.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_73SetMatrixZeroes (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._73SetMatrixZeroes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_73SetMatrixZeroes (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
@@ -177,13 +150,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_73SetMatrixZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array._73SetMatrixZeroes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_73SetMatrixZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array._73SetMatrixZeroes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_73SetMatrixZeroes_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes_KotlinKt" />
+      <module name="LeetCode-Solutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin._73SetMatrixZeroes_KotlinKt" />
         <item itemvalue="Application._73SetMatrixZeroes (2)" />
         <item itemvalue="Application._73SetMatrixZeroes (1)" />
         <item itemvalue="Application._73SetMatrixZeroes" />
         <item itemvalue="Application._54SpiralMatrix (1)" />
-        <item itemvalue="Application._54SpiralMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -223,11 +229,6 @@
           <url>file://$PROJECT_DIR$/Array/_13RomantoInteger/_13RomantoInteger.java</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Array/_73SetMatrixZeroes/_73SetMatrixZeroes.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
