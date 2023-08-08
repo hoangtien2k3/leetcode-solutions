@@ -3,28 +3,43 @@ package Array._46Permutations;
 import java.util.ArrayList;
 import java.util.List;
 
+
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> list = new ArrayList<>();
-        List<Integer> allList = new ArrayList<>();
-        backtracking(nums, list, allList, nums.length);
-        return list;
+        List<List<Integer>> result = new ArrayList<>();
+        dfs(nums, result, new ArrayList<>());
+        return result;
     }
 
-    public static void backtracking(int[] nums, List<List<Integer>> list, List<Integer> allList, int n){
-        if (allList.size() == nums.length) {
-            list.add(new ArrayList<>(allList));
+    public void dfs(int[] nums, List<List<Integer>> result, List<Integer> list) {
+        if (list.size() == nums.length) {
+            result.add(new ArrayList<>(list));
             return;
         }
-        for(int i = 0; i < n; i++) {
-            if (!allList.contains(nums[i])) {
-                allList.add(nums[i]);
-                backtracking(nums, list, allList, n);
-                allList.remove(allList.size() - 1);
+
+        for(int i = 0; i < nums.length; i++) {
+            if (!list.contains(nums[i])) {
+                list.add(nums[i]);
+                dfs(nums, result, list);
+                list.remove(list.size() - 1);
             }
         }
     }
 }
+
+/*
+#
+#                              []
+#                           /   |   \
+#                       /       |       \
+#                    /          |           \
+#                 [1]          [2]            [3]
+#               /     \       /   \           /  \
+#            [1,2]  [1,3]  [2,1]   [2,3]    [3,1] [3,2]
+#              |      |      |       |        |     |
+#           [1,2,3][1,3,2] [2,1,3] [2,3,1] [3,1,2] [3,2,1]
+#
+*/
 
 public class _46Permutations {
     public static void main(String[] args) {
