@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_121BestTimetoBuyandSellStock/_121BestTimetoBuyandSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/_50Pow_x_n/_50Pow_x_n.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/_100SameTree/_100SameTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_98ValidateBinarySearchTree/_98ValidateBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/_98ValidateBinarySearchTree/_98ValidateBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_46Permutations/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_46Permutations/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_46Permutations/_46Permutations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/_46Permutations/_46Permutations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/Array/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._121BestTimetoBuyandSellStock">
+  <component name="RunManager" selected="Application._100SameTree">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -110,6 +109,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_100SameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree._100SameTree._100SameTree" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree._100SameTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,32 +207,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_121BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._121BestTimetoBuyandSellStock._121BestTimetoBuyandSellStock" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._121BestTimetoBuyandSellStock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_121BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._121BestTimetoBuyandSellStock._121BestTimetoBuyandSellStock" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._121BestTimetoBuyandSellStock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_73SetMatrixZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
       <module name="LeetCode-Solutions" />
@@ -234,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_73SetMatrixZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
+    <configuration name="_98ValidateBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree._98ValidateBinarySearchTree._98ValidateBinarySearchTree" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._73SetMatrixZeroes.*" />
+          <option name="PATTERN" value="Tree._98ValidateBinarySearchTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._100SameTree" />
+        <item itemvalue="Application._98ValidateBinarySearchTree" />
         <item itemvalue="Application._121BestTimetoBuyandSellStock" />
         <item itemvalue="Application._121BestTimetoBuyandSellStock (5)" />
         <item itemvalue="Application._121BestTimetoBuyandSellStock (4)" />
-        <item itemvalue="Application._121BestTimetoBuyandSellStock (3)" />
-        <item itemvalue="Application._121BestTimetoBuyandSellStock (2)" />
       </list>
     </recent_temporary>
   </component>
