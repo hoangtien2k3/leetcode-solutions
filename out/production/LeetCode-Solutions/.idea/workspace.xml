@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/_73SetMatrixZeroes/_73SetMatrixZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_50Pow_x_n/_50Pow_x_n.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_14LongestCommonPrefix/_14LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_14LongestCommonPrefix/_14LongestCommonPrefix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +76,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._73SetMatrixZeroes">
+  <component name="RunManager" selected="Application._50Pow_x_n">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -112,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_108ConvertSortedArraytoBinarySearchTree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._108ConvertSortedArraytoBinarySearchTree._108ConvertSortedArraytoBinarySearchTree" />
+    <configuration name="_50Pow_x_n" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_50Pow_x_n._50Pow_x_n" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._108ConvertSortedArraytoBinarySearchTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_108ConvertSortedArraytoBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._108ConvertSortedArraytoBinarySearchTree._108ConvertSortedArraytoBinarySearchTree" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array._108ConvertSortedArraytoBinarySearchTree.*" />
+          <option name="PATTERN" value="_50Pow_x_n.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_54SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._54SpiralMatrix._54SpiralMatrix" />
+    <configuration name="_73SetMatrixZeroes (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._54SpiralMatrix.*" />
+          <option name="PATTERN" value="Array._73SetMatrixZeroes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,13 +163,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_73SetMatrixZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array._73SetMatrixZeroes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_73SetMatrixZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array._73SetMatrixZeroes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_73SetMatrixZeroes_KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._73SetMatrixZeroes._73SetMatrixZeroes_KotlinKt" />
+      <module name="LeetCode-Solutions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._50Pow_x_n" />
+        <item itemvalue="Kotlin._73SetMatrixZeroes_KotlinKt" />
+        <item itemvalue="Application._73SetMatrixZeroes (1)" />
         <item itemvalue="Application._73SetMatrixZeroes" />
         <item itemvalue="Application._54SpiralMatrix (1)" />
-        <item itemvalue="Application._54SpiralMatrix" />
-        <item itemvalue="Application._108ConvertSortedArraytoBinarySearchTree" />
-        <item itemvalue="Application._108ConvertSortedArraytoBinarySearchTree (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -223,11 +242,6 @@
           <url>file://$PROJECT_DIR$/Array/_13RomantoInteger/_13RomantoInteger.java</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Array/_73SetMatrixZeroes/_73SetMatrixZeroes.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
