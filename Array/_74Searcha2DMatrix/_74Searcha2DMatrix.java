@@ -1,5 +1,8 @@
 package Array._74Searcha2DMatrix;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class Solution {
     public boolean binarySearch(int[][] matrix, int target) {
         if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return false;
@@ -38,6 +41,7 @@ public class _74Searcha2DMatrix {
                 {23,30,34,60}
         };
         int target = 3;
+
         System.out.println(new Solution().searchMatrix(matrix, target));
     }
 }

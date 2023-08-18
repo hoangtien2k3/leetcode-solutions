@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/String/_139WordBreak/_139WordBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_74Searcha2DMatrix/_74Searcha2DMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_74Searcha2DMatrix/_74Searcha2DMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode-Solutions/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "D:/Code/LeetCode-Solutions",
+    "last_opened_file_path": "D:/Backend/spring-security/springboot-blog-rest-api",
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
@@ -75,7 +78,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._74Searcha2DMatrix">
+  <component name="RunManager" selected="Application._139WordBreak (3)">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -110,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_100SameTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree._100SameTree._100SameTree" />
+    <configuration name="_139WordBreak (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String._139WordBreak._139WordBreak" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tree._100SameTree.*" />
+          <option name="PATTERN" value="String._139WordBreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_121BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._121BestTimetoBuyandSellStock._121BestTimetoBuyandSellStock" />
+    <configuration name="_139WordBreak (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String._139WordBreak._139WordBreak" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._121BestTimetoBuyandSellStock.*" />
+          <option name="PATTERN" value="String._139WordBreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_121BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._121BestTimetoBuyandSellStock._121BestTimetoBuyandSellStock" />
+    <configuration name="_139WordBreak (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String._139WordBreak._139WordBreak" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._121BestTimetoBuyandSellStock.*" />
+          <option name="PATTERN" value="String._139WordBreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_121BestTimetoBuyandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._121BestTimetoBuyandSellStock._121BestTimetoBuyandSellStock" />
+    <configuration name="_139WordBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String._139WordBreak._139WordBreak" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._121BestTimetoBuyandSellStock.*" />
+          <option name="PATTERN" value="String._139WordBreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,7 +165,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_74Searcha2DMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="_74Searcha2DMatrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array._74Searcha2DMatrix._74Searcha2DMatrix" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
@@ -175,39 +178,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_94BinaryTreeInorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree._94BinaryTreeInorderTraversal._94BinaryTreeInorderTraversal" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree._94BinaryTreeInorderTraversal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_98ValidateBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree._98ValidateBinarySearchTree._98ValidateBinarySearchTree" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree._98ValidateBinarySearchTree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._74Searcha2DMatrix" />
-        <item itemvalue="Application._94BinaryTreeInorderTraversal" />
-        <item itemvalue="Application._100SameTree" />
-        <item itemvalue="Application._98ValidateBinarySearchTree" />
-        <item itemvalue="Application._121BestTimetoBuyandSellStock" />
+        <item itemvalue="Application._139WordBreak (3)" />
+        <item itemvalue="Application._139WordBreak" />
+        <item itemvalue="Application._139WordBreak (2)" />
+        <item itemvalue="Application._139WordBreak (1)" />
+        <item itemvalue="Application._74Searcha2DMatrix (1)" />
       </list>
     </recent_temporary>
   </component>
