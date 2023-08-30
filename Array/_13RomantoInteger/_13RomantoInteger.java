@@ -2,11 +2,9 @@ package Array._13RomantoInteger;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
 
 class Solution {
     public static int romanToInt(String s) {
-
         // Khởi tạo Map ánh xạ các ký tự La Mã với giá trị tương ứng
         Map<Character, Integer> romanMap = new HashMap<>();
         romanMap.put('I', 1);
