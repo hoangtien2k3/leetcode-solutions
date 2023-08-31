@@ -29,6 +29,6 @@ fun main(args: Array<String>) {
 
     val solution: SolutionKotlin = SolutionKotlin()
     val result: List<String> = solution.letterCombinations(digits)
-    println("${result.toString()}")
+    println(result.toString())
 
 }
