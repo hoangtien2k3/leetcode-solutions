@@ -3,27 +3,6 @@ package Array._22GenerateParentheses;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
-    public void recursionParenthesis(List<String> res, int left, int right, String s, int n) {
-        if (s.length() == n * 2) { // vì số ngoặc sẽ gấp đôi.
-            res.add(s);
-            return;
-        }
-        if (left < n) {
-            recursionParenthesis(res, left + 1, right, s + "(", n);
-        }
-        if (right < left) {
-            recursionParenthesis(res, left, right + 1, s + ")", n);
-        }
-    }
-
-    public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<>();
-        recursionParenthesis(res, 0, 0, "", n);
-        return res;
-    }
-}
-
 /*
             Sơ đồ Đệ Quy (Recursion Tree): n = 3
 
@@ -46,6 +25,26 @@ class Solution {
  res.append('((()))')                            res.append('(())()')
 
 */
+class Solution {
+    public void recursionParenthesis(List<String> res, int left, int right, String s, int n) {
+        if (s.length() == n * 2) { // vì số ngoặc sẽ gấp đôi.
+            res.add(s);
+            return;
+        }
+        if (left < n) {
+            recursionParenthesis(res, left + 1, right, s + "(", n);
+        }
+        if (right < left) {
+            recursionParenthesis(res, left, right + 1, s + ")", n);
+        }
+    }
+
+    public List<String> generateParenthesis(int n) {
+        List<String> res = new ArrayList<>();
+        recursionParenthesis(res, 0, 0, "", n);
+        return res;
+    }
+}
 
 public class _22GenerateParentheses {
     public static void main(String[] args) {
@@ -53,7 +52,7 @@ public class _22GenerateParentheses {
         Solution solution = new Solution();
         List<String> list = solution.generateParenthesis(n);
         for(String str : list) {
-            System.out.println(str + "");
+            System.out.println(str);
         }
     }
 }
