@@ -5,28 +5,26 @@ import java.util.*;
 class Solution {
 
     // cách 1:
-//    public int[] searchRange(int[] nums, int target) {
-//        int start = binarySearch(nums, target);
-//        if (start == nums.length || nums[start] != target) {
-//            return new int[]{-1, -1};
-//        }
-//        return new int[]{start, binarySearch(nums, target + 1) - 1};
-//    }
-//
-//    public int binarySearch(int[] nums, int target) {
-//        int l = 0, r = nums.length ;
-//        while(l < r) {
-//            int m = l + ((r - l) >> 1);
-//            if (nums[m] > target || nums[m] == target) {
-//                r = m; // không nên cho r = m - 1 khi mà nums[m] == target
-//            } else {
-//                l = m + 1;
-//            }
-//        }
-//        return l;
-//    }
+/*    public int[] searchRange(int[] nums, int target) {
+        int start = binarySearch(nums, target);
+        if (start == nums.length || nums[start] != target) {
+            return new int[]{-1, -1};
+        }
+        return new int[]{start, binarySearch(nums, target + 1) - 1};
+    }
 
-
+    public int binarySearch(int[] nums, int target) {
+        int l = 0, r = nums.length ;
+        while(l < r) {
+            int m = l + ((r - l) >> 1);
+            if (nums[m] > target || nums[m] == target) {
+                r = m; // không nên cho r = m - 1 khi mà nums[m] == target
+            } else {
+                l = m + 1;
+            }
+        }
+        return l;
+    }*/
 
 
     // cach 2:

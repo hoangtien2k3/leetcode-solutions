@@ -1,11 +1,7 @@
-
-// 26. Remove Duplicates from Sorted Array
-
 package Array._26RemoveDuplicatesfromSortedArray;
 
 class Solution {
     public int removeDuplicates(int[] nums) {
-
         int index = 1;
         for(int i = 0; i < nums.length - 1 ; i++) {
             if (nums[i] < nums[i + 1]) {

@@ -1,7 +1,5 @@
 package Array._36ValidSudoku;
 
-import java.util.Arrays;
-
 class Solution {
     public boolean isValidSudoku(char[][] board) {
         for (int row = 0; row < 9; row++) {

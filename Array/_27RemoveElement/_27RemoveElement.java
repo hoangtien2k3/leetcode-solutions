@@ -1,6 +1,3 @@
-
-// 27. Remove Element
-
 package Array._27RemoveElement;
 
 class Solution {
@@ -26,8 +23,5 @@ public class _27RemoveElement {
         int val = 2;
 
         System.out.println(solution.removeElement(nums, val));
-
-
-
     }
 }
