@@ -1,7 +1,6 @@
 package Array._39CombinationSum;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 class Solution {
@@ -13,7 +12,7 @@ class Solution {
             all_list.add(new ArrayList<>(list));
             return;
         }
-        for(int i = index; i < candidates.length; i++) {
+        for (int i = index; i < candidates.length; i++) {
             sum += candidates[i];
             list.add(candidates[i]);
             CombiSolve(all_list, list, candidates, target, i, sum);
@@ -32,7 +31,7 @@ class Solution {
 
 public class _39CombinationSum {
     public static void main(String[] args) {
-        int[] candidates = new int[] {2,3,5};
+        int[] candidates = new int[]{2, 3, 5};
         int target = 8;
 
         Solution solution = new Solution();

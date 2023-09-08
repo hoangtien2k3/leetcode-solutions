@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_26RemoveDuplicatesfromSortedArray/_26RemoveDuplicatesfromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_26RemoveDuplicatesfromSortedArray/_26RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_27RemoveElement/_27RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_27RemoveElement/_27RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_33SearchInRotatedSortedArray/_33SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_33SearchInRotatedSortedArray/_33SearchInRotatedSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_34FindFirstandLastPositionofElementinSortedArray/_34FindFirstandLastPositionofElementinSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_34FindFirstandLastPositionofElementinSortedArray/_34FindFirstandLastPositionofElementinSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_36ValidSudoku/_36ValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_36ValidSudoku/_36ValidSudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_39CombinationSum/_39CombinationSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_39CombinationSum/_39CombinationSum.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_39CombinationSum/_39CombinationSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_39CombinationSum/_39CombinationSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_40CombinationSumII/CombinationSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_40CombinationSumII/CombinationSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_41FirstMissingPositive/_41FirstMissingPositive.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_41FirstMissingPositive/_41FirstMissingPositive.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
