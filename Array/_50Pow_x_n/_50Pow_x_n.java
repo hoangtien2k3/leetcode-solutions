@@ -19,11 +19,11 @@ class Solution {
         return n < 0 ? 1 / result : result;
     }
 }
+
 public class _50Pow_x_n {
     public static void main(String[] args) {
         double x = 4;
         int n = 3;
-
         System.out.println(Solution.myPow(x, n));
     }
 }

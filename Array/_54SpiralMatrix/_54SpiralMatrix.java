@@ -49,7 +49,6 @@ class Solution {
     }
 }
 
-
 public class _54SpiralMatrix {
     public static void main(String[] args) {
         int[][] matrix = {
@@ -62,5 +61,4 @@ public class _54SpiralMatrix {
         List<Integer> listResult = solution.spiralOrder(matrix);
         System.out.println(listResult);
     }
-
 }

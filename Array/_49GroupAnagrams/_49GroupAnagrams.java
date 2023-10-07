@@ -10,11 +10,10 @@ import java.util.*;
 
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs){
-        List<List<String>> s = new ArrayList<>();
         Map<String, List<String>> map = new HashMap<>();
 
         for(String e : strs){
-            char ch[] = e.toCharArray(); // chuyển chuỗi thành mảng ky tự.
+            char[] ch = e.toCharArray(); // chuyển chuỗi thành mảng ky tự.
             Arrays.sort(ch); // mục đích chuyển về mảng ký tự để Sort.
 
             String str = new String(ch); // chuyền mảng ký tự vào chuỗi.
@@ -26,8 +25,7 @@ class Solution {
             // [[eat, tea, ate], [tan, nat], [bat]]
         }
 
-        s.addAll(map.values());
-        return s;
+        return new ArrayList<>(map.values());
     }
 }
 
@@ -36,6 +34,5 @@ public class _49GroupAnagrams {
         String[] s = {"eat","tea","tan","ate","nat","bat"};
         Solution solution = new Solution();
         System.out.println(solution.groupAnagrams(s));
-
     }
 }
