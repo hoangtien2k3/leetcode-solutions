@@ -36,8 +36,7 @@ class TreeNode {
 
 class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {
-        TreeNode result = insertRoot(nums, 0, nums.length - 1);
-        return result;
+        return insertRoot(nums, 0, nums.length - 1);
     }
 
     public TreeNode insertRoot(int[] nums, int left, int right) {
