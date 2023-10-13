@@ -5,9 +5,7 @@ import java.util.List;
 
 class Solution {
     public static List<String> summaryRanges(int[] nums) {
-
         List<String> list = new ArrayList<>();
-
         if (nums.length == 1) {
             String s = Integer.toString(nums[0]);
             list.add(s);
@@ -21,17 +19,14 @@ class Solution {
             while(count + 1 < nums.length && nums[count + 1] == nums[count] + 1) {
                 count++;
             }
-
             // kiểm tra xem giá trị có trùng nhau hay không
             if (count > i) { // nếu giá trị không trùng lặp
                 result = Integer.toString(nums[i]) + "->" + Integer.toString(nums[count]);
             } else {
                 result = Integer.toString(nums[i]);
             }
-
             list.add(result);
             result = "";
-
             // giờ thì index sẽ nhảy tới vị trí thứ count mà chúng ta vừa lặp tới.
             i = count;
         }
