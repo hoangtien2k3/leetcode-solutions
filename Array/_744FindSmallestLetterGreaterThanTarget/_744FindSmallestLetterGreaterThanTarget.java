@@ -5,7 +5,7 @@ import java.util.Arrays;
 class Solution {
     public static char nextGreatestLetter(char[] letters, char target) {
         Arrays.sort(letters);
-        for(char c : letters) {
+        for (char c : letters) {
             if (c > target) return c;
         }
         return letters[0];
@@ -14,7 +14,7 @@ class Solution {
 
 public class _744FindSmallestLetterGreaterThanTarget {
     public static void main(String[] args) {
-        char[] letters = {'c','f','j'};
+        char[] letters = {'c', 'f', 'j'};
         char target = 'a';
         System.out.println(Solution.nextGreatestLetter(letters, target));
     }

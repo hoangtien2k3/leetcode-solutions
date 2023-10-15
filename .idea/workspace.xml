@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_242ValidAnagram/_242ValidAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/_448FindAllNumbersDisappearedinanArray/_448FindAllNumbersDisappearedinanArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_448FindAllNumbersDisappearedinanArray/_448FindAllNumbersDisappearedinanArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_704BinarySearch/_704BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_704BinarySearch/_704BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/_744FindSmallestLetterGreaterThanTarget/_744FindSmallestLetterGreaterThanTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/_744FindSmallestLetterGreaterThanTarget/_744FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
