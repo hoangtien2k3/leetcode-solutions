@@ -1,26 +1,28 @@
 package Array._989AddtoArray_FormofInteger;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 class Solution {
     public static String addStrings(String num1, String num2) {
-        String res = "";
+        StringBuilder res = new StringBuilder();
 
-        while(num1.length() > num2.length()) num2 = "0" + num2;
-        while(num1.length() < num2.length()) num1 = "0" + num1;
+        StringBuilder num2Builder = new StringBuilder(num2);
+        while (num1.length() > num2Builder.length()) num2Builder.insert(0, "0");
+        num2 = num2Builder.toString();
+        StringBuilder num1Builder = new StringBuilder(num1);
+        while (num1Builder.length() < num2.length()) num1Builder.insert(0, "0");
+        num1 = num1Builder.toString();
 
         int carry = 0;
-        for(int i = num1.length() - 1; i >= 0; i--) {
+        for (int i = num1.length() - 1; i >= 0; i--) {
             int temp = (num1.charAt(i) - '0') + (num2.charAt(i) - '0') + carry;
             carry = temp / 10;
-            res = (char)(temp % 10 + '0') + res;
+            res.insert(0, (char) (temp % 10 + '0'));
         }
+        if (carry > 0) res.insert(0, "1");
 
-        if (carry > 0) res = "1" + res;
-
-        return res;
+        return res.toString();
     }
 
     public static List<Integer> addToArrayForm(int[] num, int k) {
@@ -38,7 +40,7 @@ class Solution {
         String result = addStrings(strNumbers, kStr);
 
         List<Integer> list = new ArrayList<Integer>();
-        for(int i = 0; i < result.length(); i++) {
+        for (int i = 0; i < result.length(); i++) {
             // int numDigit = Character.getNumericValue(result.charAt(i));
             int numDigit = (result.charAt(i) - '0');
             list.add(numDigit);
