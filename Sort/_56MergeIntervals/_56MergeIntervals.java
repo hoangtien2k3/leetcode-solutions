@@ -1,13 +1,11 @@
 package Sort._56MergeIntervals;
 
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 class Solution {
     public static int[][] merge(int[][] intervals) {
-
         // sắp xếp mảng 2 chiều tăng dần với từng cặp phần tử trong mảng
         /*
             int[][] intervals` ban đầu là `[[2,3],[1,4],[8,10],[4,6]]
