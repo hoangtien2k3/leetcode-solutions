@@ -2,18 +2,17 @@ package Sort._57InsertInterval;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 class Solution {
     public static int[][] insert(int[][] intervals, int[] newInterval) {
-
         int[][] result = Arrays.copyOf(intervals, intervals.length + 1);
         result[intervals.length] = newInterval;
 
-        Arrays.sort(result, (a, b) -> a[0] - b[0]);
-
+        Arrays.sort(result, Comparator.comparingInt(a -> a[0]));
         List<int[]> output = new ArrayList<>();
-        for(int[] interval : result) {
+        for (int[] interval : result) {
             // kiểm tra xem List<int[]> output đã có thêm phần từ nào vào chưa
             // hoặc giá trị thứ 2 trong mảng 1 chiều nằm trong output có nhỏ hơn giá trị thứ nhất trong mảng 1 chiều interval[0] không.
             // nếu thỏa mãn thì add phần tử vào output
@@ -31,13 +30,12 @@ class Solution {
         int[][] ans = new int[output.size()][2];
 
         // duyệt từng mảng con của output và đẩy vào mảng 2 chiều vừa tạo
-        for(int i = 0; i < output.size(); i++) {
+        for (int i = 0; i < output.size(); i++) {
             // đẩy giá trị mảng của output vào mảng ans mới tạo.
             ans[i] = output.get(i);
         }
 
         return ans;
-
     }
 }
 
@@ -49,10 +47,10 @@ public class _57InsertInterval {
         int[][] ans = Solution.insert(intervals, newInterval);
 
         System.out.print("[");
-        for(int i = 0; i < ans.length; i++) {
+        for (int i = 0; i < ans.length; i++) {
             System.out.print("[");
             int check = 0;
-            for(int j = 0; j < ans[i].length; j++) {
+            for (int j = 0; j < ans[i].length; j++) {
                 if (check == 0) {
                     System.out.print(ans[i][j] + ", ");
                 } else {
@@ -67,6 +65,5 @@ public class _57InsertInterval {
             }
         }
         System.out.print("]");
-
     }
 }
