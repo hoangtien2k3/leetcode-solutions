@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/String/_28FindTheIndexOfTheFirstOccurrenceInAString/_28FindTheIndexOfTheFirstOccurrenceInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/_29DivideTwoIntegers/_29DivideTwoIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._28FindTheIndexOfTheFirstOccurrenceInAString">
+  <component name="RunManager" selected="Application._29DivideTwoIntegers">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -107,19 +107,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_139WordBreak (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String._139WordBreak._139WordBreak" />
-      <module name="LeetCode-Solutions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String._139WordBreak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,13 +166,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_29DivideTwoIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array._29DivideTwoIntegers._29DivideTwoIntegers" />
+      <module name="LeetCode-Solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array._29DivideTwoIntegers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._29DivideTwoIntegers" />
         <item itemvalue="Application._28FindTheIndexOfTheFirstOccurrenceInAString" />
         <item itemvalue="Application._139WordBreak (3)" />
         <item itemvalue="Application._139WordBreak" />
         <item itemvalue="Application._139WordBreak (2)" />
-        <item itemvalue="Application._139WordBreak (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +220,35 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Array/_29DivideTwoIntegers/_29DivideTwoIntegers.java</url>
+          <line>3</line>
+          <properties class="Array._29DivideTwoIntegers.Solution" method="divide">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/_29DivideTwoIntegers/_29DivideTwoIntegers.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/_29DivideTwoIntegers/_29DivideTwoIntegers.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/_29DivideTwoIntegers/_29DivideTwoIntegers.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/_29DivideTwoIntegers/_29DivideTwoIntegers.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
