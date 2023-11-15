@@ -12,7 +12,7 @@
 
 # intellij
 .idea/
-.out/
+.out
 
 # Package Files #
 *.jar
