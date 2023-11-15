@@ -13,7 +13,6 @@
 # intellij
 .idea/
 .out/
-.github/
 
 # Package Files #
 *.jar
