@@ -10,6 +10,11 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# intellij
+.idea/
+.out/
+.github/
+
 # Package Files #
 *.jar
 *.war
