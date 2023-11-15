@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c7382a-1217-4285-8192-e2e0e591008e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/String/_28FindTheIndexOfTheFirstOccurrenceInAString/_28FindTheIndexOfTheFirstOccurrenceInAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort/_57InsertInterval/_57InsertInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sort/_57InsertInterval/_57InsertInterval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <recent name="D:\CodeJava\LeetCode-Solutions\Array\_17LetterCombinationsOfAPhoneNumber" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._139WordBreak (3)">
+  <component name="RunManager" selected="Application._28FindTheIndexOfTheFirstOccurrenceInAString">
     <configuration type="Application" factoryName="Application">
       <extension name="coverage">
         <pattern>
@@ -166,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_74Searcha2DMatrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array._74Searcha2DMatrix._74Searcha2DMatrix" />
+    <configuration name="_28FindTheIndexOfTheFirstOccurrenceInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String._28FindTheIndexOfTheFirstOccurrenceInAString._28FindTheIndexOfTheFirstOccurrenceInAString" />
       <module name="LeetCode-Solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array._74Searcha2DMatrix.*" />
+          <option name="PATTERN" value="String._28FindTheIndexOfTheFirstOccurrenceInAString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._28FindTheIndexOfTheFirstOccurrenceInAString" />
         <item itemvalue="Application._139WordBreak (3)" />
         <item itemvalue="Application._139WordBreak" />
         <item itemvalue="Application._139WordBreak (2)" />
         <item itemvalue="Application._139WordBreak (1)" />
-        <item itemvalue="Application._74Searcha2DMatrix (1)" />
       </list>
     </recent_temporary>
   </component>
