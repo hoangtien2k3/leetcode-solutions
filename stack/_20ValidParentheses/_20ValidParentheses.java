@@ -20,6 +20,7 @@ class Solution {
         return myStack.empty();
     }
 }
+
 public class _20ValidParentheses {
     public static void main(String[] args) {
         String s = "()[]{}";
