@@ -1,9 +1,7 @@
 package array._119PascalTriangleII;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
@@ -17,7 +15,7 @@ class Solution {
                             .collect(Collectors.toCollection(ArrayList::new));
                 })
                 .limit(rowIndex + 1)
-                .reduce((array1, array2) -> array2) // Lấy dòng cuối cùng của tam giác Pascal
+                .reduce((array1, array2) -> array2)
                 .orElse(new ArrayList<>());
     }
 }
