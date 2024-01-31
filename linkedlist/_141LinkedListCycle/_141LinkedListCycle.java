@@ -1,5 +1,12 @@
 package linkedlist._141LinkedListCycle;
 
+/**
+ * @author: hoangtien2k3
+ * @create: 30/01/2024 - 17:30
+ * @file: _141LinkedListCycle.java
+ * @update: 30/01/2024
+ * @description:
+ */
 class ListNode {
     int val;
     ListNode next;

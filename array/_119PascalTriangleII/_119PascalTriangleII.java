@@ -14,10 +14,9 @@ class Solution {
             return IntStream.range(0, size)
                     .mapToObj(i -> (i == 0 || i == size - 1) ? 1 : row.get(i - 1) + row.get(i))
                     .collect(Collectors.toCollection(ArrayList::new));
-        })
-                .limit(rowIndex + 1)
-                .reduce((array1, array2) -> array2)
-                .orElse(new ArrayList<>());
+        }).limit(rowIndex + 1)
+                .reduce((first, second) -> second)
+                .orElse( new ArrayList<>());
 
     }
 }

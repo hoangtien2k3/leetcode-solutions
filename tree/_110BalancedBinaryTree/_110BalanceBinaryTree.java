@@ -22,22 +22,18 @@ class TreeNode {
 }
 
 class Solution {
-    public boolean isBalanced(TreeNode root) {
+    public boolean isSymmetric(TreeNode root) {
         if (root == null)
             return true;
-        return height_balanced(root) != -1;
+        return isBalance(root.left, root.right);
     }
 
-    public int height_balanced(TreeNode root) {
-        if (root == null)
-            return 0;
-        int leftHeight = height_balanced(root.left);
-        int rightHight = height_balanced(root.right);
-        if (leftHeight == -1 || rightHight == -1)
-            return -1;
-        if (Math.abs(leftHeight - rightHight) > 1)
-            return -1;
-        return Math.max(leftHeight, rightHight) + 1;
+    private boolean isBalance(TreeNode node1, TreeNode node2) {
+        if (node1 == null && node2 == null)
+            return true;
+        if (node1 == null || node2 == null)
+            return false;
+        return node1.val == node2.val && isBalance(node1.left, node2.right) && isBalance(node1.right, node2.left);
     }
 }
 
