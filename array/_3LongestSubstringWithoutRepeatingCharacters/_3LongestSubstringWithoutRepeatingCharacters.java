@@ -1,5 +1,6 @@
 package array._3LongestSubstringWithoutRepeatingCharacters;
 
+import javax.swing.*;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -22,13 +23,17 @@ class Solution {
             }
         }
 
+        System.out.println(set);
         return maxLength;
     }
 }
 
+//ab abc e b e
+// abcab
+
 public class _3LongestSubstringWithoutRepeatingCharacters {
     public static void main(String[] args) {
-        String s = "abcabcbb";
+        String s = "abcab";
         System.out.println(Solution.lengthOfLongestSubstring(s));
     }
 }
