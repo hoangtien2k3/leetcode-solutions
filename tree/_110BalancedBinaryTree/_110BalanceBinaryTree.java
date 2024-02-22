@@ -33,7 +33,9 @@ class Solution {
             return true;
         if (node1 == null || node2 == null)
             return false;
-        return node1.val == node2.val && isBalance(node1.left, node2.right) && isBalance(node1.right, node2.left);
+        return node1.val == node2.val
+                && isBalance(node1.left, node2.right)
+                && isBalance(node1.right, node2.left);
     }
 }
 
